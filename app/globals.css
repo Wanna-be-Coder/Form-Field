@@ -24,3 +24,172 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* ---------------------------------------------------------------------------
+   Court-form (packet) rendering — used for the on-screen preview and printing.
+   Always light "paper", regardless of the app's dark mode.
+--------------------------------------------------------------------------- */
+.packet-print {
+  color: #000;
+}
+
+.packet-page {
+  width: 8.5in;
+  max-width: 100%;
+  margin: 0 auto 1.25rem;
+  background: #fff;
+  color: #000;
+  border: 1px solid #cbd5e1;
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.12);
+  font-family: "Times New Roman", Georgia, serif;
+  font-size: 12px;
+  line-height: 1.35;
+}
+
+.packet-page__inner {
+  padding: 0.55in 0.6in;
+}
+
+.packet-page__footer {
+  margin-top: 0.5rem;
+  border-top: 1px solid #000;
+  padding-top: 3px;
+  font-size: 10px;
+  text-align: center;
+}
+
+.packet-box {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 4px;
+  margin-right: 10px;
+}
+
+.packet-box__mark {
+  font-size: 13px;
+  line-height: 1;
+}
+
+.packet-line {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 4px;
+  margin-right: 10px;
+}
+
+.packet-line__label {
+  white-space: nowrap;
+}
+
+.packet-line__value {
+  min-width: 70px;
+  border-bottom: 1px solid #000;
+  padding: 0 4px;
+  font-weight: 600;
+}
+
+.packet-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 10px;
+  margin: 3px 0;
+}
+
+.packet-rule {
+  border: 0;
+  border-top: 1px solid #000;
+  margin: 6px 0;
+}
+
+.packet-section-title {
+  margin: 8px 0 4px;
+  font-size: 12px;
+}
+
+.packet-header {
+  margin-bottom: 8px;
+}
+
+.packet-signature {
+  margin-top: 10px;
+}
+
+.packet-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 11px;
+}
+
+.packet-table th,
+.packet-table td {
+  border: 1px solid #000;
+  padding: 3px 4px;
+  vertical-align: top;
+  text-align: left;
+}
+
+/* Screen preview frame */
+@media screen {
+  .packet-preview {
+    background: #64748b;
+    padding: 1.25rem 0.5rem;
+    border-radius: 1rem;
+    max-height: 75vh;
+    overflow: auto;
+  }
+}
+
+/* Printing: show only the packet, one form per page. */
+@media print {
+  @page {
+    size: letter;
+    margin: 0.4in;
+  }
+
+  html,
+  body {
+    background: #fff !important;
+  }
+
+  body * {
+    visibility: hidden !important;
+  }
+
+  .packet-print,
+  .packet-print * {
+    visibility: visible !important;
+  }
+
+  .packet-print {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+  }
+
+  .packet-preview {
+    max-height: none !important;
+    overflow: visible !important;
+    background: #fff !important;
+    padding: 0 !important;
+  }
+
+  .packet-page {
+    width: 100%;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+    break-after: page;
+    page-break-after: always;
+  }
+
+  .packet-page:last-child {
+    break-after: auto;
+    page-break-after: auto;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+}
