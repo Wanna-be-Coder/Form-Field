@@ -47,11 +47,11 @@ export function FL110Step() {
 
       <SubSection title="Case Number">
         <Field
-          name="fl110.caseNumber"
+          name="intake.caseNumber"
           label="Case number (if assigned)"
-          hint="Leave blank if the court has not yet assigned one — the clerk will stamp it in when you file."
+          hint="Shared across every form in the packet. Leave blank if the court has not yet assigned one — the clerk will stamp it in when you file."
         >
-          <Text name="fl110.caseNumber" placeholder="e.g. RID1234567" />
+          <Text name="intake.caseNumber" placeholder="e.g. RID1234567" />
         </Field>
       </SubSection>
 

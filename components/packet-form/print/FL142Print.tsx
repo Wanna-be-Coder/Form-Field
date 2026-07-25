@@ -22,7 +22,7 @@ export function FL142Print({ data }: { data: PacketFormData }) {
   ]
     .filter(Boolean)
     .join(", ");
-  const caseNumber = data.fl100.caseNumber;
+  const caseNumber = data.intake.caseNumber;
 
   const assetTotals = totalAssets(fl142);
   const debtTotal = totalDebts(fl142);

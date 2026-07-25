@@ -35,7 +35,7 @@ export function RIFL036Print({ data }: { data: PacketFormData }) {
         formNo="RI-FL036"
         petitioner={p}
         respondent={r}
-        caseNumber={data.fl100.caseNumber}
+        caseNumber={data.intake.caseNumber}
         attorneyName={p}
         attorneyAddress={addr}
         attorneyPhone={intake.petitionerPhone}

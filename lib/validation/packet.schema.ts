@@ -36,6 +36,7 @@ const intakeSchema = z.object({
   }),
   filingOption: z.enum(["inPerson", "online"], { message: "Select a filing option" }),
   electronicSignatureName: z.string(),
+  caseNumber: z.string(),
   todaysDate: z.string().min(1, "Enter today's date"),
 });
 

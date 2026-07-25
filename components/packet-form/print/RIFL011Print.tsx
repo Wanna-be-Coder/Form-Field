@@ -4,7 +4,7 @@ import { petitionerName, respondentName, toCourtDate } from "@/lib/utils/packet-
 import { FormPage, Box, Line, Row, CourtHeader, SignatureBlock } from "./print-ui";
 
 export function RIFL011Print({ data }: { data: PacketFormData }) {
-  const { intake, fl100, rifl011 } = data;
+  const { intake, rifl011 } = data;
   const p = petitionerName(intake);
   const r = respondentName(intake);
   const court = intake.courthouse ? COURTHOUSES[intake.courthouse] : undefined;
@@ -36,7 +36,7 @@ export function RIFL011Print({ data }: { data: PacketFormData }) {
         courtAddress={courtAddress}
         petitioner={p}
         respondent={r}
-        caseNumber={fl100.caseNumber}
+        caseNumber={intake.caseNumber}
         attorneyName={p}
         attorneyAddress={addr}
         attorneyPhone={intake.petitionerPhone}

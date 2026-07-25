@@ -34,7 +34,7 @@ export function FL100Print({ data }: { data: PacketFormData }) {
           courtAddress={courtAddress}
           petitioner={p}
           respondent={r}
-          caseNumber={fl100.caseNumber}
+          caseNumber={intake.caseNumber}
           attorneyName={p}
           attorneyAddress={addr}
           attorneyPhone={intake.petitionerPhone}

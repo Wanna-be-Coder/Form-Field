@@ -72,6 +72,7 @@ export const packetDefaults: PacketFormData = {
     courthouse: "",
     filingOption: "",
     electronicSignatureName: "",
+    caseNumber: "",
     todaysDate: "",
   },
   fl100: {

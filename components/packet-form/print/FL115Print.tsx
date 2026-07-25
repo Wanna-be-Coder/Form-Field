@@ -4,7 +4,7 @@ import { petitionerName, respondentName, toCourtDate } from "@/lib/utils/packet-
 import { FormPage, Box, Line, Row, SectionTitle, CourtHeader, SignatureBlock } from "./print-ui";
 
 export function FL115Print({ data }: { data: PacketFormData }) {
-  const { intake, fl115, fl100 } = data;
+  const { intake, fl115 } = data;
   const p = petitionerName(intake);
   const r = respondentName(intake);
   const court = intake.courthouse ? COURTHOUSES[intake.courthouse] : undefined;
@@ -15,7 +15,7 @@ export function FL115Print({ data }: { data: PacketFormData }) {
   ]
     .filter(Boolean)
     .join(", ");
-  const caseNumber = fl115.caseNumber || fl100.caseNumber;
+  const caseNumber = intake.caseNumber;
 
   const pageFooter = (page: number) => (
     <div className="flex justify-between">

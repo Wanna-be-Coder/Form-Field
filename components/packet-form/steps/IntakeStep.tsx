@@ -239,6 +239,16 @@ export function IntakeStep() {
         ) : null}
       </SubSection>
 
+      <SubSection title="Case Number">
+        <Field
+          name="intake.caseNumber"
+          label="Case number (if assigned)"
+          hint="Leave blank if the court has not assigned a case number yet. It will appear on every form."
+        >
+          <Text name="intake.caseNumber" placeholder="e.g. RID2400123" />
+        </Field>
+      </SubSection>
+
       <SubSection title="Today's Date">
         <Field name="intake.todaysDate" label="Today's date" required>
           <DateField name="intake.todaysDate" />

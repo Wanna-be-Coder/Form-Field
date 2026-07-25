@@ -54,6 +54,10 @@ export type IntakeData = {
   filingOption: FilingOption | "";
   electronicSignatureName: string; // typed name = e-signature (online option)
 
+  // Case-level number, entered once and printed on every form's header. Usually
+  // blank when first preparing the packet; the clerk assigns it at filing.
+  caseNumber: string;
+
   todaysDate: string;
 };
 

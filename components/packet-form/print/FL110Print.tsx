@@ -5,7 +5,7 @@ import { FL110_RESTRAINING_ORDERS } from "../steps/FL110Step";
 import { FormPage, Box, Line, Row, SectionTitle } from "./print-ui";
 
 export function FL110Print({ data }: { data: PacketFormData }) {
-  const { intake, fl110 } = data;
+  const { intake } = data;
   const p = petitionerName(intake);
   const r = respondentName(intake);
   const addr = [
@@ -81,7 +81,7 @@ export function FL110Print({ data }: { data: PacketFormData }) {
         <Row><Line label="Address:" value={addr} className="grow" /></Row>
         <Row><Line label="Telephone:" value={intake.petitionerPhone} /></Row>
 
-        <Row className="mt-2"><Line label="CASE NUMBER:" value={fl110.caseNumber} /></Row>
+        <Row className="mt-2"><Line label="CASE NUMBER:" value={intake.caseNumber} /></Row>
       </FormPage>
 
       {/* Page 2 */}

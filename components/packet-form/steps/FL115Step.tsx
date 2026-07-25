@@ -27,8 +27,8 @@ export function FL115Step() {
       </Instruction>
 
       <SubSection>
-        <Field name="fl115.caseNumber" label="Case number">
-          <Text name="fl115.caseNumber" />
+        <Field name="intake.caseNumber" label="Case number" hint="Shared across every form in the packet.">
+          <Text name="intake.caseNumber" />
         </Field>
         <Field name="fl115.addressServed" label="Address where the Respondent was served">
           <TextArea name="fl115.addressServed" rows={2} />
