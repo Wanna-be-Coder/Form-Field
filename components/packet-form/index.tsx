@@ -14,6 +14,7 @@ import {
   RotateCcw,
   Pencil,
   AlertCircle,
+  FileDown,
 } from "lucide-react";
 import { packetSchema } from "@/lib/validation/packet.schema";
 import { PacketFormData } from "@/lib/types/packet.types";
@@ -80,6 +81,7 @@ export default function PacketForm() {
   const [darkMode, setDarkMode] = useState(false);
   const [hydrated, setHydrated] = useState(false);
   const [showValidationBanner, setShowValidationBanner] = useState(false);
+  const [pdfBusy, setPdfBusy] = useState(false);
 
   const values = watch();
   const hasChildren = watch("intake.hasMinorChildren");
@@ -150,6 +152,30 @@ export default function PacketForm() {
     window.localStorage.removeItem(STORAGE_KEY);
   };
 
+  const downloadEditablePdf = async () => {
+    if (!submitted) return;
+    setPdfBusy(true);
+    try {
+      // pdf-lib is heavy, so load it only when the user asks for the download.
+      const { generatePacketPdf } = await import("@/lib/pdf/generatePacketPdf");
+      const bytes = await generatePacketPdf(submitted);
+      const blob = new Blob([bytes as BlobPart], { type: "application/pdf" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = "riverside-dissolution-packet.pdf";
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      URL.revokeObjectURL(url);
+    } catch (error) {
+      console.error("Could not generate editable PDF", error);
+      window.alert("Sorry — the editable PDF could not be generated. Please try again.");
+    } finally {
+      setPdfBusy(false);
+    }
+  };
+
   // ---- Submitted: show the printable packet ----------------------------------
   if (submitted) {
     return (
@@ -163,12 +189,23 @@ export default function PacketForm() {
                   Your packet is ready
                 </h2>
                 <p className="mt-1 text-sm text-emerald-800 dark:text-emerald-200">
-                  Review the forms below, then print or save them as a PDF. Use your browser&apos;s
-                  &ldquo;Save as PDF&rdquo; option in the print dialog to download a copy.
+                  Review the forms below. <strong>Download editable PDF</strong> gives you a fillable
+                  PDF (with form fields you can still edit in any PDF reader), pre-filled with your
+                  answers. <strong>Print / Save as PDF</strong> produces a flat copy via your
+                  browser&apos;s print dialog.
                 </p>
               </div>
             </div>
             <div className="flex flex-wrap gap-3">
+              <button
+                type="button"
+                onClick={downloadEditablePdf}
+                disabled={pdfBusy}
+                className="inline-flex items-center gap-2 rounded-full bg-emerald-600 px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-emerald-700 disabled:cursor-not-allowed disabled:opacity-60"
+              >
+                <FileDown className="h-4 w-4" />
+                {pdfBusy ? "Preparing…" : "Download editable PDF"}
+              </button>
               <button
                 type="button"
                 onClick={() => window.print()}
