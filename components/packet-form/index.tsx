@@ -189,10 +189,11 @@ export default function PacketForm() {
                   Your packet is ready
                 </h2>
                 <p className="mt-1 text-sm text-emerald-800 dark:text-emerald-200">
-                  Review the forms below. <strong>Download editable PDF</strong> gives you a fillable
-                  PDF (with form fields you can still edit in any PDF reader), pre-filled with your
-                  answers. <strong>Print / Save as PDF</strong> produces a flat copy via your
-                  browser&apos;s print dialog.
+                  <strong>Download editable PDF</strong> fills the official Judicial Council forms
+                  (FL-100, FL-110, FL-105, FL-142, FL-150, FL-140, FL-115) with your answers and
+                  keeps every field editable in any PDF reader; the Riverside local forms (RI-FL036,
+                  RI-FL011) are appended. The preview below is a quick on-screen summary;{" "}
+                  <strong>Print / Save as PDF</strong> prints that summary.
                 </p>
               </div>
             </div>

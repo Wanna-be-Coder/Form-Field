@@ -1,0 +1,404 @@
+{
+  "intake": {
+    "petitionerFirstName": "Jane",
+    "petitionerMiddleName": "A.",
+    "petitionerLastName": "Doe",
+    "petitionerStreet": "123 Example Street",
+    "petitionerCity": "Riverside",
+    "petitionerState": "CA",
+    "petitionerZip": "92501",
+    "petitionerPhone": "(951) 555-1234",
+    "petitionerEmail": "jane.doe@example.com",
+    "respondentFirstName": "John",
+    "respondentMiddleName": "B.",
+    "respondentLastName": "Doe",
+    "caseType": "dissolution",
+    "relationshipType": "marriage",
+    "marriageDate": "2015-06-20",
+    "hasMinorChildren": true,
+    "numberOfChildren": "2",
+    "children": [
+      {
+        "firstName": "Emily",
+        "middleName": "R.",
+        "lastName": "Doe",
+        "placeOfBirth": "Riverside, CA",
+        "dateOfBirth": "2016-03-14",
+        "age": "9"
+      },
+      {
+        "firstName": "Liam",
+        "middleName": "T.",
+        "lastName": "Doe",
+        "placeOfBirth": "Riverside, CA",
+        "dateOfBirth": "2018-11-02",
+        "age": "6"
+      }
+    ],
+    "courthouse": "riverside",
+    "filingOption": "online",
+    "electronicSignatureName": "Jane A. Doe",
+    "caseNumber": "RID2400123",
+    "todaysDate": "2026-07-26"
+  },
+  "fl100": {
+    "amended": false,
+    "caseNumber": "",
+    "legalRelationship": [
+      "married"
+    ],
+    "residencyMet": true,
+    "residencyParty": "petitioner",
+    "residencyDpInCA": false,
+    "residencySameSex": false,
+    "petitionerLivesIn": "",
+    "respondentLivesIn": "",
+    "dateOfSeparation": "2025-01-15",
+    "dpRegistrationDate": "",
+    "minorChildrenChoice": "listed",
+    "childBornBeforeMarriage": false,
+    "uccjeaAttached": true,
+    "voluntaryParentage": false,
+    "groundsDivorceOrSeparation": "irreconcilable",
+    "groundsNullityVoid": "",
+    "groundsNullityVoidable": "",
+    "legalCustodyTo": "joint",
+    "physicalCustodyTo": "petitioner",
+    "visitationTo": "respondent",
+    "childSupportOther": "",
+    "spousalSupportTo": "petitioner",
+    "terminateSupportTo": "respondent",
+    "reserveSupportTo": "",
+    "spousalSupportOther": "",
+    "separatePropertyNone": true,
+    "separatePropertyList": "",
+    "communityPropertyNone": false,
+    "communityPropertyList": "Family residence, two vehicles, joint checking account, and household furnishings.",
+    "attorneyFeesFrom": "respondent",
+    "restoreFormerName": true,
+    "formerName": "Jane Alexandra Smith",
+    "otherRequests": "",
+    "restrainingOrdersRead": true
+  },
+  "fl110": {
+    "caseNumber": "",
+    "acknowledgeRestraining": true
+  },
+  "rifl036": {
+    "reason": "geographic",
+    "city": "Riverside",
+    "zip": "92501",
+    "otherReason": "",
+    "date": "2026-07-26"
+  },
+  "rifl011": {
+    "agreeEmail": true,
+    "email": "jane.doe@example.com",
+    "stopEmail": false,
+    "date": "2026-07-26"
+  },
+  "fl105": {
+    "role": "party",
+    "residences": [
+      {
+        "fromDate": "2020-01-01",
+        "toDate": "",
+        "isCurrent": true,
+        "residence": "Riverside, CA",
+        "livedWith": "Jane A. Doe, 123 Example Street, Riverside, CA 92501",
+        "relationship": "Mother"
+      }
+    ],
+    "singleResidenceForAll": true,
+    "otherProceedings": false,
+    "otherProceedingsDetails": "",
+    "restrainingOrders": false,
+    "restrainingOrdersDetails": "",
+    "otherPersons": false,
+    "persons": [],
+    "pagesAttached": "0",
+    "date": "2026-07-26"
+  },
+  "fl142": {
+    "whoseSchedule": "petitioner",
+    "caseNumber": "",
+    "assets": {
+      "realEstate": {
+        "none": false,
+        "description": "123 Example Street, Riverside, CA 92501",
+        "sepProp": "",
+        "dateAcquired": "06/2015",
+        "grossValue": "480000",
+        "amountOwed": "260000"
+      },
+      "household": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "dateAcquired": "",
+        "grossValue": "",
+        "amountOwed": ""
+      },
+      "jewelry": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "dateAcquired": "",
+        "grossValue": "",
+        "amountOwed": ""
+      },
+      "vehicles": {
+        "none": false,
+        "description": "2019 Toyota Camry",
+        "sepProp": "",
+        "dateAcquired": "04/2019",
+        "grossValue": "18000",
+        "amountOwed": "4000"
+      },
+      "savings": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "dateAcquired": "",
+        "grossValue": "",
+        "amountOwed": ""
+      },
+      "checking": {
+        "none": false,
+        "description": "Example Bank checking #1234",
+        "sepProp": "",
+        "dateAcquired": "",
+        "grossValue": "6200",
+        "amountOwed": ""
+      },
+      "creditUnion": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "dateAcquired": "",
+        "grossValue": "",
+        "amountOwed": ""
+      },
+      "cash": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "dateAcquired": "",
+        "grossValue": "",
+        "amountOwed": ""
+      },
+      "taxRefund": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "dateAcquired": "",
+        "grossValue": "",
+        "amountOwed": ""
+      },
+      "lifeInsurance": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "dateAcquired": "",
+        "grossValue": "",
+        "amountOwed": ""
+      },
+      "stocks": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "dateAcquired": "",
+        "grossValue": "",
+        "amountOwed": ""
+      },
+      "retirement": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "dateAcquired": "",
+        "grossValue": "",
+        "amountOwed": ""
+      },
+      "profitSharing": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "dateAcquired": "",
+        "grossValue": "",
+        "amountOwed": ""
+      },
+      "receivables": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "dateAcquired": "",
+        "grossValue": "",
+        "amountOwed": ""
+      },
+      "partnerships": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "dateAcquired": "",
+        "grossValue": "",
+        "amountOwed": ""
+      },
+      "otherAssets": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "dateAcquired": "",
+        "grossValue": "",
+        "amountOwed": ""
+      }
+    },
+    "debts": {
+      "studentLoans": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "totalOwing": "",
+        "dateAcquired": ""
+      },
+      "taxes": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "totalOwing": "",
+        "dateAcquired": ""
+      },
+      "supportArrears": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "totalOwing": "",
+        "dateAcquired": ""
+      },
+      "unsecuredLoans": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "totalOwing": "",
+        "dateAcquired": ""
+      },
+      "creditCards": {
+        "none": false,
+        "description": "Example Card ending 5678",
+        "sepProp": "",
+        "totalOwing": "3400",
+        "dateAcquired": ""
+      },
+      "otherDebts": {
+        "none": false,
+        "description": "",
+        "sepProp": "",
+        "totalOwing": "",
+        "dateAcquired": ""
+      }
+    },
+    "continuationPages": "0",
+    "date": "2026-07-26"
+  },
+  "fl150": {
+    "caseNumber": "",
+    "employer": "Acme Corporation",
+    "employerAddress": "500 Market St, Riverside, CA 92501",
+    "employerPhone": "(951) 555-9000",
+    "occupation": "Office Manager",
+    "dateJobStarted": "2019-02-01",
+    "dateJobEnded": "",
+    "hoursPerWeek": "40",
+    "grossPay": "5200",
+    "payFrequency": "month",
+    "age": "38",
+    "completedHighSchool": true,
+    "highestGrade": "",
+    "yearsCollege": "4",
+    "collegeDegrees": "B.A. Business",
+    "lastTaxYear": "2025",
+    "taxFilingStatus": "marriedJointly",
+    "taxFilingJointName": "John B. Doe",
+    "otherPartyIncome": "6000",
+    "otherPartyIncomeBasis": "Based on pay stubs from prior year.",
+    "incomeSalary": "5200",
+    "incomeOvertime": "",
+    "incomeCommissions": "",
+    "incomePublicAssistance": "",
+    "incomeSpousalSupport": "",
+    "incomePension": "",
+    "incomeSocialSecurity": "",
+    "incomeUnemployment": "",
+    "incomeOther": "150",
+    "deductionUnionDues": "",
+    "deductionRetirement": "",
+    "deductionHealthInsurance": "220",
+    "deductionChildSupportOther": "",
+    "assetCash": "6200",
+    "assetStocks": "",
+    "assetOtherProperty": "480000",
+    "household": [
+      {
+        "name": "Emily Doe",
+        "age": "9",
+        "relationship": "Daughter",
+        "grossMonthlyIncome": "0",
+        "paysExpenses": false
+      },
+      {
+        "name": "Liam Doe",
+        "age": "6",
+        "relationship": "Son",
+        "grossMonthlyIncome": "0",
+        "paysExpenses": false
+      }
+    ],
+    "expenseHome": "1900",
+    "expenseHealthCare": "",
+    "expenseChildCare": "",
+    "expenseGroceries": "800",
+    "expenseEatingOut": "",
+    "expenseUtilities": "300",
+    "expensePhone": "",
+    "expenseLaundry": "",
+    "expenseClothes": "",
+    "expenseEducation": "",
+    "expenseEntertainment": "",
+    "expenseAuto": "350",
+    "expenseInsurance": "",
+    "expenseSavings": "",
+    "expenseOther": "",
+    "numberChildrenUnder18": "2",
+    "timeWithMePercent": "60",
+    "timeWithOtherPercent": "40",
+    "hasChildHealthInsurance": true,
+    "childInsuranceCompany": "Example Health",
+    "childInsuranceMonthlyCost": "180",
+    "date": "2026-07-26"
+  },
+  "fl140": {
+    "whoseDisclosure": "petitioner",
+    "disclosureStage": "preliminary",
+    "attachSchedule": true,
+    "attachIncomeExpense": true,
+    "attachTaxReturns": false,
+    "attachMaterialFactsAssets": false,
+    "attachMaterialFactsObligations": false,
+    "attachInvestmentOpportunity": false,
+    "date": "2026-07-26"
+  },
+  "fl115": {
+    "caseNumber": "",
+    "addressServed": "789 Other Ave, Riverside, CA 92503",
+    "serviceMethod": "personal",
+    "serviceDate": "2026-07-20",
+    "serviceTime": "2:30 PM",
+    "serverName": "Chris Server",
+    "serverAddress": "999 Process Ln, Riverside, CA 92505",
+    "serverPhone": "(951) 555-7777",
+    "serverIsRegistered": true,
+    "serverRegistrationNo": "PS-12345",
+    "serverCounty": "Riverside",
+    "serverFee": "85",
+    "date": "2026-07-21"
+  }
+}

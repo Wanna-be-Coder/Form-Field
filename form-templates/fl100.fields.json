@@ -1,0 +1,2228 @@
+[
+{
+"name": "FL-100[0].Page1[0].PartiesSignedVoluntaryPaternityDec_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+71.1,
+83.4,
+80.1,
+92.4
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].FormTitle[0].Amended_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+323.2,
+554.5,
+333.2,
+564.5
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].FormTitle[0].DissolutionOf_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+47.4,
+541.7,
+56.4,
+550.7
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].FormTitle[0].Marriage_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+187.2,
+541.8,
+196.2,
+550.8
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].FormTitle[0].DomesticPartnership_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+283.5,
+541.5,
+292.5,
+550.5
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].FormTitle[0].NullityOf_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+47.4,
+517.3,
+56.4,
+526.3
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].FormTitle[0].Marriage_cb[1]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+187.2,
+517.1,
+196.2,
+526.1
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].FormTitle[0].DomesticPartnership_cb[1]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+283.5,
+517.1,
+292.5,
+526.1
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].FormTitle[0].LegalSeparationOf_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+47.4,
+529.7,
+56.4,
+538.7
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].FormTitle[0].Marriage_cb[2]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+187.2,
+529.9,
+196.2,
+538.9
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].FormTitle[0].DomesticPartnership_cb[2]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+283.5,
+529.9,
+292.5,
+538.9
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].AttyInfo[0].AttyFor_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+108.1,
+655.2,
+394.5,
+664.2
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].AttyInfo[0].Email_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+91.1,
+666.6,
+394.5,
+675.6
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].AttyInfo[0].Fax_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+266.1,
+678.7,
+394.5,
+687.7
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].AttyInfo[0].Phone_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+89.1,
+678.7,
+217.4,
+687.7
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].AttyInfo[0].AttyZip_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+327.0,
+690.2,
+394.5,
+699.2
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].AttyInfo[0].AttyState_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+264.8,
+690.2,
+294.2,
+699.2
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].AttyInfo[0].AttyCity_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+54.1,
+690.2,
+240.9,
+699.2
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].AttyInfo[0].AttyStreet_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+94.1,
+701.6,
+394.5,
+710.6
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].AttyInfo[0].AttyFirm_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+73.1,
+712.8,
+394.5,
+721.8
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].AttyInfo[0].AttyName_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+58.1,
+724.5,
+394.2,
+733.5
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].AttyInfo[0].BarNo_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+308.6,
+735.8,
+393.8,
+744.8
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].CourtInfo[0].CrtCounty_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+230.4,
+638.5,
+391.5,
+648.5
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].CourtInfo[0].Branch_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+111.5,
+597.7,
+391.5,
+607.7
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].CourtInfo[0].CityZip_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+111.6,
+607.9,
+391.5,
+617.9
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].CourtInfo[0].Street_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+111.6,
+628.3,
+391.5,
+638.3
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].CourtInfo[0].MailingAdd_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+111.3,
+618.1,
+391.5,
+628.1
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].TitlePartyName[0].Party2_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+99.7,
+571.6,
+393.4,
+580.6
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].TitlePartyName[0].Party1_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+99.7,
+581.5,
+393.4,
+590.5
+]
+},
+{
+"name": "FL-100[0].Page1[0].CaptionP1_sf[0].CaseNumber[0].CaseNumber_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+402.4,
+540.8,
+553.3,
+552.4
+]
+},
+{
+"name": "FL-100[0].Page1[0].WeAreMarried_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+71.1,
+486.3,
+80.1,
+495.3
+]
+},
+{
+"name": "FL-100[0].Page1[0].DPEstablishedInCalifornia[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+71.1,
+471.3,
+80.1,
+480.3
+]
+},
+{
+"name": "FL-100[0].Page1[0].DPNOTEstablishedinCA_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+71.1,
+456.5,
+80.1,
+465.5
+]
+},
+{
+"name": "FL-100[0].Page1[0].RespondentMeetsResidencyReqs_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+137.6,
+425.6,
+146.6,
+434.6
+]
+},
+{
+"name": "FL-100[0].Page1[0].PetitionerMeetsResidencyReqs_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+71.1,
+425.6,
+80.1,
+434.6
+]
+},
+{
+"name": "FL-100[0].Page1[0].DateOfMarriage_dt[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+214.1,
+316.7,
+307.7,
+325.7
+]
+},
+{
+"name": "FL-100[0].Page1[0].DateOfSeparation_dt[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+446.9,
+316.7,
+572.3,
+325.7
+]
+},
+{
+"name": "FL-100[0].Page1[0].MonthsSeparated_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+342.2,
+304.2,
+376.9,
+313.2
+]
+},
+{
+"name": "FL-100[0].Page1[0].CheckBox61[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+71.1,
+316.7,
+80.1,
+325.7
+]
+},
+{
+"name": "FL-100[0].Page1[0].CheckBox61[1]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+71.1,
+292.3,
+80.1,
+301.3
+]
+},
+{
+"name": "FL-100[0].Page1[0].DatePartnersSeparated_dt[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+445.5,
+279.8,
+575.4,
+288.8
+]
+},
+{
+"name": "FL-100[0].Page1[0].DateTimeField1[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+106.1,
+279.8,
+309.2,
+288.8
+]
+},
+{
+"name": "FL-100[0].Page1[0].ThereAreNoMinorChildren_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+71.1,
+235.3,
+80.1,
+244.3
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].MinorChildrenList_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+71.1,
+223.2,
+80.1,
+232.2
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].Child1Name_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+91.0,
+197.4,
+307.1,
+209.4
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].Child4Name_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+91.0,
+154.5,
+307.1,
+166.6
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].Child3Name_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+91.0,
+169.3,
+307.1,
+181.4
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].Child2Name_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+91.0,
+183.3,
+307.1,
+195.4
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].Child1Age_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+405.6,
+197.4,
+456.0,
+209.4
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].Child4Age_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+405.6,
+154.5,
+456.0,
+166.6
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].Child3Age_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+405.6,
+169.3,
+456.0,
+181.4
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].Child2Age_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+405.6,
+183.3,
+456.0,
+195.4
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].Child1Birthdate_dt[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+317.0,
+197.4,
+400.7,
+209.4
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].Child4Birthdate_dt[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+317.4,
+154.5,
+400.0,
+166.6
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].Child3Date_dt[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+317.4,
+169.3,
+400.0,
+181.4
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].Child2Birthdate_dt[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+317.4,
+183.3,
+400.0,
+195.4
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].UnbornChild_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+343.3,
+141.3,
+352.3,
+150.3
+]
+},
+{
+"name": "FL-100[0].Page1[0].MinorChildren_sf[0].Attachment4b[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+109.5,
+141.3,
+118.5,
+150.3
+]
+},
+{
+"name": "FL-100[0].Page1[0].DPNOTEstablishedinCA_cb[1]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+71.1,
+393.2,
+80.1,
+402.2
+]
+},
+{
+"name": "FL-100[0].Page1[0].SameSexMarriedInCA_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+71.1,
+369.3,
+80.1,
+378.3
+]
+},
+{
+"name": "FL-100[0].Page1[0].RespondentsResidence_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+448.7,
+345.8,
+575.3,
+354.8
+]
+},
+{
+"name": "FL-100[0].Page1[0].PetitionersResidence_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+198.8,
+345.8,
+325.1,
+354.8
+]
+},
+{
+"name": "FL-100[0].Page1[0].MonthsSeparated_tf[1]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+412.7,
+304.2,
+441.4,
+313.2
+]
+},
+{
+"name": "FL-100[0].Page1[0].MonthsSeparated_tf[2]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+507.4,
+268.8,
+536.1,
+277.8
+]
+},
+{
+"name": "FL-100[0].Page1[0].MonthsSeparated_tf[3]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+448.7,
+268.8,
+477.5,
+277.8
+]
+},
+{
+"name": "FL-100[0].Page1[0].Button1[0]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 0,
+"rect": [
+219.9,
+96.3,
+248.5,
+105.3
+]
+},
+{
+"name": "FL-100[0].Page2[0].Nullity_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+71.1,
+632.4,
+80.1,
+641.4
+]
+},
+{
+"name": "FL-100[0].Page2[0].BasedOnIncest_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+115.9,
+618.5,
+124.9,
+627.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].BasedOnBigamy_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+212.3,
+618.5,
+221.3,
+627.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].NullityofVoidableMarriageOrDP_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+71.1,
+601.8,
+80.1,
+610.8
+]
+},
+{
+"name": "FL-100[0].Page2[0].BasedonAge_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+115.9,
+588.5,
+124.9,
+597.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].PriorExistingMarriageOrDP_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+115.9,
+564.5,
+124.9,
+573.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].BasedOnUnsoundMind_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+115.9,
+550.8,
+124.9,
+559.8
+]
+},
+{
+"name": "FL-100[0].Page2[0].BasedonFraud_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+383.8,
+588.5,
+392.8,
+597.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].BasedOnForce_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+383.9,
+569.7,
+392.9,
+578.7
+]
+},
+{
+"name": "FL-100[0].Page2[0].BasedonPhysicalIncapacity_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+383.8,
+550.8,
+392.8,
+559.8
+]
+},
+{
+"name": "FL-100[0].Page2[0].SepTypeDef_cb[0]",
+"type": "/Btn",
+"states": [
+"/2",
+"/Off"
+],
+"page": 1,
+"rect": [
+174.1,
+660.5,
+183.1,
+669.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].SepTypeDef_cb[1]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+71.1,
+660.8,
+80.1,
+669.8
+]
+},
+{
+"name": "FL-100[0].Page2[0].SepBasis_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+115.9,
+647.6,
+124.9,
+656.6
+]
+},
+{
+"name": "FL-100[0].Page2[0].SepBasis_cb[1]",
+"type": "/Btn",
+"states": [
+"/2",
+"/Off"
+],
+"page": 1,
+"rect": [
+306.6,
+647.6,
+315.6,
+656.6
+]
+},
+{
+"name": "FL-100[0].Page2[0].ToPetitioner_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+341.7,
+507.1,
+350.7,
+516.1
+]
+},
+{
+"name": "FL-100[0].Page2[0].ToRespondent_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+405.3,
+507.1,
+414.3,
+516.1
+]
+},
+{
+"name": "FL-100[0].Page2[0].ToBothJointly_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+458.9,
+507.1,
+467.9,
+516.1
+]
+},
+{
+"name": "FL-100[0].Page2[0].ToOther_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+498.5,
+507.1,
+507.5,
+516.1
+]
+},
+{
+"name": "FL-100[0].Page2[0].ToPetitioner_cb[1]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+341.7,
+490.1,
+350.7,
+499.1
+]
+},
+{
+"name": "FL-100[0].Page2[0].ToRespondent_cb[1]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+405.3,
+490.1,
+414.3,
+499.1
+]
+},
+{
+"name": "FL-100[0].Page2[0].ToBothJointly_cb[1]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+458.9,
+490.1,
+467.9,
+499.1
+]
+},
+{
+"name": "FL-100[0].Page2[0].ToOther_cb[1]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+498.5,
+490.1,
+507.5,
+499.1
+]
+},
+{
+"name": "FL-100[0].Page2[0].ForPetitioner_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+341.7,
+475.2,
+350.7,
+484.2
+]
+},
+{
+"name": "FL-100[0].Page2[0].ForOther_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+498.5,
+475.2,
+507.5,
+484.2
+]
+},
+{
+"name": "FL-100[0].Page2[0].ForRespondent_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+405.3,
+475.2,
+414.3,
+484.2
+]
+},
+{
+"name": "FL-100[0].Page2[0].FormFL-311_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+153.8,
+457.5,
+162.8,
+466.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].FormFL-312_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+258.8,
+457.5,
+267.8,
+466.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].FormFL-341C_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+373.9,
+457.5,
+382.9,
+466.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].FormFL-341D_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+153.8,
+441.6,
+162.8,
+450.6
+]
+},
+{
+"name": "FL-100[0].Page2[0].FormFL-341E[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+258.8,
+441.6,
+267.8,
+450.6
+]
+},
+{
+"name": "FL-100[0].Page2[0].Attachment6e1[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+373.9,
+441.6,
+382.9,
+450.6
+]
+},
+{
+"name": "FL-100[0].Page2[0].ChildSupport_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+89.0,
+329.4,
+574.9,
+360.0
+]
+},
+{
+"name": "FL-100[0].Page2[0].OtherChildSupport_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+71.1,
+351.0,
+80.1,
+360.0
+]
+},
+{
+"name": "FL-100[0].Page2[0].EndJurixReRespondent_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+408.6,
+278.4,
+417.6,
+287.4
+]
+},
+{
+"name": "FL-100[0].Page2[0].EndJurixRePetitioner_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+322.8,
+278.4,
+331.8,
+287.4
+]
+},
+{
+"name": "FL-100[0].Page2[0].EndJurixReSupport[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+71.1,
+278.4,
+80.1,
+287.4
+]
+},
+{
+"name": "FL-100[0].Page2[0].PaySupporttoPetitioner_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+298.9,
+291.9,
+307.9,
+300.9
+]
+},
+{
+"name": "FL-100[0].Page2[0].PaySupportoRespondent_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+384.0,
+291.9,
+393.0,
+300.9
+]
+},
+{
+"name": "FL-100[0].Page2[0].PaySupport_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+71.1,
+291.9,
+80.1,
+300.9
+]
+},
+{
+"name": "FL-100[0].Page2[0].PartiesSignedVoluntaryPaternityDec_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+71.1,
+263.2,
+80.1,
+272.2
+]
+},
+{
+"name": "FL-100[0].Page2[0].ReserveJurixSupportResp_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+448.6,
+262.9,
+457.6,
+271.9
+]
+},
+{
+"name": "FL-100[0].Page2[0].ReserveJurixSupportPet_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+365.0,
+262.9,
+374.0,
+271.9
+]
+},
+{
+"name": "FL-100[0].Page2[0].OtherSupport_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+88.4,
+207.2,
+573.7,
+256.0
+]
+},
+{
+"name": "FL-100[0].Page2[0].Other_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+71.1,
+246.8,
+80.1,
+255.8
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].Button1[0]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 1,
+"rect": [
+512.7,
+161.7,
+575.4,
+170.8
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].WhereSPListed_cb[0]",
+"type": "/Btn",
+"states": [
+"/2",
+"/Off"
+],
+"page": 1,
+"rect": [
+494.3,
+162.3,
+503.3,
+171.3
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].ConfirmSeparateProperty_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+71.1,
+162.5,
+80.1,
+171.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].WhereSPListed_cb[1]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+318.6,
+162.5,
+327.6,
+171.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].WhereSPListed_cb[2]",
+"type": "/Btn",
+"states": [
+"/3",
+"/Off"
+],
+"page": 1,
+"rect": [
+97.0,
+146.2,
+106.0,
+155.2
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].SeparatePropertyList1_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+92.2,
+131.5,
+490.7,
+143.6
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].SeparatePropertyList3_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+92.2,
+103.5,
+490.7,
+115.6
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].SeparatePropertyList2_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+92.2,
+117.5,
+490.7,
+129.6
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].ConfirmPropertyList1To_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+496.8,
+131.5,
+573.8,
+143.6
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].ConfirmPropertyList3To_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+496.8,
+103.5,
+573.8,
+115.6
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].SeparatePropertyList4_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+92.2,
+89.4,
+490.7,
+101.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].ConfirmPropertyList4To_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+496.8,
+89.4,
+573.8,
+101.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].SeparatePropertyList4_tf[1]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+92.2,
+75.5,
+490.7,
+87.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].ConfirmPropertyList4To_tf[1]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+496.8,
+75.5,
+573.8,
+87.5
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].ConfirmPropertyList2To_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+496.8,
+117.5,
+573.8,
+129.6
+]
+},
+{
+"name": "FL-100[0].Page2[0].ConfirmSeparateProperty_sf[0].Button1[1]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 1,
+"rect": [
+447.2,
+161.6,
+475.7,
+170.6
+]
+},
+{
+"name": "FL-100[0].Page2[0].NoSeparateProperty_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 1,
+"rect": [
+71.1,
+177.9,
+80.1,
+186.9
+]
+},
+{
+"name": "FL-100[0].Page2[0].CaseNumber[0].CaseNumber_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+399.0,
+721.6,
+571.8,
+733.2
+]
+},
+{
+"name": "FL-100[0].Page2[0].Parties[0].Party2_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+100.4,
+721.1,
+394.1,
+730.1
+]
+},
+{
+"name": "FL-100[0].Page2[0].Parties[0].Party1_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 1,
+"rect": [
+100.4,
+731.1,
+394.1,
+740.1
+]
+},
+{
+"name": "FL-100[0].Page3[0].CaseNumber[0].CaseNumber_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 2,
+"rect": [
+399.0,
+720.7,
+571.8,
+732.3
+]
+},
+{
+"name": "FL-100[0].Page3[0].Parties[0].Party2_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 2,
+"rect": [
+99.9,
+719.9,
+393.6,
+728.9
+]
+},
+{
+"name": "FL-100[0].Page3[0].Parties[0].Party1_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 2,
+"rect": [
+99.9,
+729.8,
+393.6,
+738.8
+]
+},
+{
+"name": "FL-100[0].Page3[0].SigDate[0]",
+"type": "/Tx",
+"states": [],
+"page": 2,
+"rect": [
+63.9,
+309.0,
+222.4,
+319.3
+]
+},
+{
+"name": "FL-100[0].Page3[0].PrintPetitionerName_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 2,
+"rect": [
+63.8,
+293.8,
+258.5,
+308.3
+]
+},
+{
+"name": "FL-100[0].Page3[0].NoCommOrQuasiCommProperty_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 2,
+"rect": [
+71.1,
+679.8,
+80.1,
+688.8
+]
+},
+{
+"name": "FL-100[0].Page3[0].CommQuasiProperty_sf[0].WhereCPListed_cb[0]",
+"type": "/Btn",
+"states": [
+"/2",
+"/Off"
+],
+"page": 2,
+"rect": [
+312.5,
+652.3,
+321.5,
+661.3
+]
+},
+{
+"name": "FL-100[0].Page3[0].CommQuasiProperty_sf[0].WhereCPListed_cb[1]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 2,
+"rect": [
+97.5,
+652.3,
+106.5,
+661.3
+]
+},
+{
+"name": "FL-100[0].Page3[0].CommQuasiProperty_sf[0].PropertyListed_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 2,
+"rect": [
+71.1,
+665.4,
+80.1,
+674.4
+]
+},
+{
+"name": "FL-100[0].Page3[0].CommQuasiProperty_sf[0].ListProperty_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 2,
+"rect": [
+116.6,
+536.7,
+569.4,
+646.7
+]
+},
+{
+"name": "FL-100[0].Page3[0].CommQuasiProperty_sf[0].WhereCPListed_cb[2]",
+"type": "/Btn",
+"states": [
+"/3",
+"/Off"
+],
+"page": 2,
+"rect": [
+97.5,
+637.4,
+106.5,
+646.4
+]
+},
+{
+"name": "FL-100[0].Page3[0].CommQuasiProperty_sf[0].Button1[0]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 2,
+"rect": [
+235.9,
+651.4,
+264.4,
+660.4
+]
+},
+{
+"name": "FL-100[0].Page3[0].CommQuasiProperty_sf[0].Button1[1]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 2,
+"rect": [
+341.9,
+651.8,
+408.6,
+661.5
+]
+},
+{
+"name": "FL-100[0].Page3[0].FeesAndCost_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 2,
+"rect": [
+71.1,
+497.3,
+80.1,
+506.3
+]
+},
+{
+"name": "FL-100[0].Page3[0].AttyFeePay_cb[0]",
+"type": "/Btn",
+"states": [
+"/2",
+"/Off"
+],
+"page": 2,
+"rect": [
+334.3,
+497.3,
+343.3,
+506.3
+]
+},
+{
+"name": "FL-100[0].Page3[0].AttyFeePay_cb[1]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 2,
+"rect": [
+257.3,
+497.3,
+266.3,
+506.3
+]
+},
+{
+"name": "FL-100[0].Page3[0].RestoreFormerName_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 2,
+"rect": [
+71.1,
+482.1,
+80.1,
+491.1
+]
+},
+{
+"name": "FL-100[0].Page3[0].SpecifyFormerName_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 2,
+"rect": [
+288.6,
+482.1,
+572.9,
+491.1
+]
+},
+{
+"name": "FL-100[0].Page3[0].SpecifyOtherRequests_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 2,
+"rect": [
+91.2,
+402.3,
+576.0,
+476.9
+]
+},
+{
+"name": "FL-100[0].Page3[0].ContinuedOnAttachment_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 2,
+"rect": [
+96.0,
+386.4,
+105.0,
+395.4
+]
+},
+{
+"name": "FL-100[0].Page3[0].OtherRequests_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 2,
+"rect": [
+71.1,
+467.9,
+80.1,
+476.9
+]
+},
+{
+"name": "FL-100[0].Page3[0].SigDate[1]",
+"type": "/Tx",
+"states": [],
+"page": 2,
+"rect": [
+64.5,
+267.1,
+222.4,
+277.3
+]
+},
+{
+"name": "FL-100[0].Page3[0].PrintPetitionerAttorneyName_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 2,
+"rect": [
+64.4,
+252.4,
+259.1,
+265.7
+]
+},
+{
+"name": "FL-100[0].Page3[0].#area[0].Print[0]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/Filter",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 2,
+"rect": [
+258.7,
+6.9,
+339.7,
+23.9
+]
+},
+{
+"name": "FL-100[0].Page3[0].#area[0].Save[0]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/Filter",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 2,
+"rect": [
+345.3,
+6.9,
+426.4,
+23.9
+]
+},
+{
+"name": "FL-100[0].Page3[0].#area[0].Reset[0]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/Filter",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 2,
+"rect": [
+495.0,
+6.9,
+576.0,
+23.9
+]
+},
+{
+"name": "FL-100[0].Page3[0].#area[0].Warning[0]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/Filter",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 2,
+"rect": [
+36.0,
+6.9,
+247.3,
+30.0
+]
+},
+{
+"name": "FL-100[0].Page3[0].Button1[0]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 2,
+"rect": [
+373.6,
+214.7,
+454.0,
+225.0
+]
+}
+]

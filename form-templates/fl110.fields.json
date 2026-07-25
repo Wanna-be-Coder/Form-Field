@@ -1,0 +1,173 @@
+[
+{
+"name": "topmostSubform[0].Page1[0].T33[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+247.4,
+606.5,
+389.1,
+614.4
+]
+},
+{
+"name": "topmostSubform[0].Page1[0].T91[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+95.2,
+81.1,
+219.8,
+92.9
+]
+},
+{
+"name": "topmostSubform[0].Page1[0].T108[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+342.5,
+80.1,
+490.3,
+92.7
+]
+},
+{
+"name": "topmostSubform[0].Page1[0].OtherSpecify_tf[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+179.8,
+192.9,
+576.2,
+232.2
+]
+},
+{
+"name": "topmostSubform[0].Page1[0].TextField2[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+194.6,
+718.7,
+384.5,
+731.6
+]
+},
+{
+"name": "topmostSubform[0].Page1[0].TextField2[1]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+128.5,
+644.1,
+362.5,
+657.1
+]
+},
+{
+"name": "topmostSubform[0].Page1[0].T89[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+179.7,
+108.4,
+576.2,
+148.3
+]
+},
+{
+"name": "topmostSubform[0].Page1[0].#field[7]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+194.6,
+706.8,
+383.5,
+717.8
+]
+},
+{
+"name": "topmostSubform[0].Page1[0].#field[8]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+150.5,
+630.1,
+361.6,
+641.1
+]
+},
+{
+"name": "topmostSubform[0].Page2[0].BtnFooter_gp[0].Print_bt[0]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/Filter",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 1,
+"rect": [
+258.2,
+8.3,
+339.2,
+25.3
+]
+},
+{
+"name": "topmostSubform[0].Page2[0].BtnFooter_gp[0].Save_bt[0]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/Filter",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 1,
+"rect": [
+344.7,
+8.3,
+425.8,
+25.3
+]
+},
+{
+"name": "topmostSubform[0].Page2[0].BtnFooter_gp[0].Reset_bt[0]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/Filter",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 1,
+"rect": [
+494.4,
+8.3,
+575.4,
+25.3
+]
+}
+]

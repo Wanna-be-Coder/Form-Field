@@ -52,6 +52,18 @@ export class PdfBuilder {
     return b;
   }
 
+  /** Draw additional pages + editable fields into an EXISTING document (e.g. to
+   *  append the Riverside local forms onto the filled official templates). */
+  static async attach(doc: PDFDocument): Promise<PdfBuilder> {
+    const b = new PdfBuilder();
+    b.doc = doc;
+    b.form = doc.getForm();
+    b.font = await doc.embedFont(StandardFonts.Helvetica);
+    b.bold = await doc.embedFont(StandardFonts.HelveticaBold);
+    b.newPage();
+    return b;
+  }
+
   private uid(): string {
     this.seq += 1;
     return `f${this.seq}`;

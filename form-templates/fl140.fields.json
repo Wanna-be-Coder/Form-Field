@@ -1,0 +1,500 @@
+[
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].AddInfo[0].PartyAttyAddInfo_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+37.0,
+687.6,
+391.5,
+738.0
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].OtherContact[0].Phone_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+97.1,
+676.1,
+220.3,
+686.5
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].OtherContact[0].Fax_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+270.6,
+676.1,
+391.0,
+686.5
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].OtherContact[0].Email_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+97.0,
+666.2,
+391.0,
+676.2
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].OtherContact[0].AttyFor_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+116.5,
+656.8,
+391.0,
+666.8
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].CourtInfo[0].CrtCounty_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+230.4,
+641.2,
+391.5,
+651.2
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].CourtInfo[0].Branch_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+104.3,
+600.4,
+391.5,
+610.4
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].CourtInfo[0].CityZip_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+104.4,
+610.6,
+391.5,
+620.6
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].CourtInfo[0].Street_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+104.6,
+631.0,
+391.5,
+641.0
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].CourtInfo[0].MailingAdd_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+104.3,
+620.8,
+391.5,
+630.8
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].TitlePartyName[0].Party1_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+151.2,
+584.7,
+388.8,
+594.7
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].TitlePartyName[0].Party2_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+151.8,
+572.5,
+388.8,
+582.5
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].TitlePartyName[0].TextField2[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+151.2,
+560.2,
+388.8,
+570.2
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].CaseNumber[0].CaseNumber_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+400.0,
+529.8,
+572.8,
+541.4
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].FormTitle[0].caption_cb[0].CheckBox61[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+83.3,
+528.5,
+93.3,
+538.5
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].FormTitle[0].caption_cb[1].respondent_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+83.3,
+514.1,
+93.3,
+524.1
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].FormTitle[0].caption_cb[2].preliminary_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+227.3,
+528.5,
+237.3,
+538.5
+]
+},
+{
+"name": "form1[0].Page1[0].StdP1Header_sf[0].FormTitle[0].caption_cb[3].final_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+227.3,
+514.1,
+237.3,
+524.1
+]
+},
+{
+"name": "form1[0].Page1[0].Disclose_cb[0].#area[2].Schedule_or_Prop_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+54.6,
+315.4,
+64.6,
+325.4
+]
+},
+{
+"name": "form1[0].Page1[0].Disclose_cb[0].#area[3].taxreturns_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+53.6,
+273.5,
+63.6,
+283.5
+]
+},
+{
+"name": "form1[0].Page1[0].Disclose_cb[0].#area[4].obligations_stmt_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+53.6,
+199.3,
+63.6,
+209.3
+]
+},
+{
+"name": "form1[0].Page1[0].Disclose_cb[0].#area[4].#area[5].investment_opp_db[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+53.6,
+169.9,
+63.6,
+179.9
+]
+},
+{
+"name": "form1[0].Page1[0].Disclose_cb[0].Mtl_facts_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+72.0,
+212.4,
+575.9,
+228.9
+]
+},
+{
+"name": "form1[0].Page1[0].Disclose_cb[0].obligations_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+72.1,
+181.3,
+576.0,
+194.2
+]
+},
+{
+"name": "form1[0].Page1[0].Disclose_cb[0].TextField2[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+72.0,
+257.0,
+576.0,
+269.5
+]
+},
+{
+"name": "form1[0].Page1[0].Disclose_cb[0].#area[6].CheckBox61[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+53.6,
+244.7,
+63.6,
+254.7
+]
+},
+{
+"name": "form1[0].Page1[0].Disclose_cb[0].#area[7].CheckBox61[1]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+76.0,
+304.1,
+86.0,
+314.1
+]
+},
+{
+"name": "form1[0].Page1[0].Disclose_cb[0].#area[8].CheckBox61[2]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+284.8,
+304.1,
+294.8,
+314.1
+]
+},
+{
+"name": "form1[0].Page1[0].Disclose_cb[0].caption_cb[0].petitioner_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+328.1,
+315.6,
+338.1,
+325.6
+]
+},
+{
+"name": "form1[0].Page1[0].investmt_opp_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+72.0,
+124.8,
+576.0,
+144.0
+]
+},
+{
+"name": "form1[0].Page1[0].Date_name_gp[0].IandE_cb[0]",
+"type": "/Btn",
+"states": [
+"/1",
+"/Off"
+],
+"page": 0,
+"rect": [
+54.5,
+288.8,
+64.5,
+298.8
+]
+},
+{
+"name": "form1[0].Page1[0].Date[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+63.1,
+95.0,
+223.2,
+108.0
+]
+},
+{
+"name": "form1[0].Page1[0].print_name_ft[0]",
+"type": "/Tx",
+"states": [],
+"page": 0,
+"rect": [
+36.0,
+80.6,
+270.5,
+93.6
+]
+},
+{
+"name": "form1[0].Page1[0].BtnFooter_gp[0].Print_bt[0]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/Filter",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 0,
+"rect": [
+258.9,
+1.6,
+339.9,
+18.6
+]
+},
+{
+"name": "form1[0].Page1[0].BtnFooter_gp[0].Save_bt[0]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/Filter",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 0,
+"rect": [
+345.4,
+1.6,
+426.5,
+18.6
+]
+},
+{
+"name": "form1[0].Page1[0].BtnFooter_gp[0].Reset_bt[0]",
+"type": "/Btn",
+"states": [
+"/BBox",
+"/Filter",
+"/FormType",
+"/Matrix",
+"/Resources",
+"/Subtype",
+"/Type",
+"/Off"
+],
+"page": 0,
+"rect": [
+495.1,
+1.6,
+576.1,
+18.6
+]
+}
+]
