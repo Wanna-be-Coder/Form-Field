@@ -189,10 +189,10 @@ export default function PacketForm() {
                   Your packet is ready
                 </h2>
                 <p className="mt-1 text-sm text-emerald-800 dark:text-emerald-200">
-                  <strong>Download editable PDF</strong> fills the official Judicial Council forms
-                  (FL-100, FL-110, FL-105, FL-142, FL-150, FL-140, FL-115) with your answers and
-                  keeps every field editable in any PDF reader; the Riverside local forms (RI-FL036,
-                  RI-FL011) are appended. The preview below is a quick on-screen summary;{" "}
+                  <strong>Download editable PDF</strong> writes your answers into a copy of the actual
+                  Riverside dissolution packet (all 22 pages — intake cover, FL-110, FL-100, FL-142,
+                  RI-FL036, RI-FL011, FL-105, FL-150, FL-140, FL-115) and keeps every field editable
+                  in any PDF reader. The preview below is a quick on-screen summary;{" "}
                   <strong>Print / Save as PDF</strong> prints that summary.
                 </p>
               </div>

@@ -1,0 +1,5846 @@
+[
+{
+"name": "FillText6",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+175.6,
+567.2,
+595.5,
+581.3
+],
+"label": "Name (First, Middle, Last):"
+},
+{
+"name": "FillText9",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+175.6,
+672.6,
+595.5,
+686.6
+],
+"label": "Name (First, Middle, Last):"
+},
+{
+"name": "Check BoxRiverside",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+19.4,
+187.8,
+33.0,
+201.2
+],
+"label": "Where is your case filed?"
+},
+{
+"name": "Check BoxHemet",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+19.2,
+167.9,
+32.8,
+181.2
+],
+"label": "Where is your case filed?"
+},
+{
+"name": "Check BoxIndio",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+305.7,
+187.6,
+319.3,
+200.9
+],
+"label": "Age:"
+},
+{
+"name": "Check BoxBlythe",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+305.5,
+167.6,
+319.0,
+180.9
+],
+"label": "Age:"
+},
+{
+"name": "FillText155",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+175.6,
+608.3,
+595.5,
+622.3
+],
+"label": "Telephone Number:"
+},
+{
+"name": "FillText1",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+175.6,
+652.1,
+595.5,
+666.2
+],
+"label": "Street Address:"
+},
+{
+"name": "FillText2",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+175.6,
+631.4,
+595.5,
+645.4
+],
+"label": "City, State, Zip Code:"
+},
+{
+"name": "FillTextcaseno",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 2,
+"rect": [
+242.0,
+600.2,
+395.7,
+616.1
+],
+"label": "SUMMONS (Family Law)"
+},
+{
+"name": "FillText139",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+156.7,
+424.3,
+595.0,
+439.3
+],
+"label": "Name (First, Middle, Last):"
+},
+{
+"name": "FillText138",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+157.2,
+381.8,
+243.1,
+396.8
+],
+"label": "Date of Birth (MM/DD/YYYY):"
+},
+{
+"name": "FillText135",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+157.2,
+353.6,
+595.4,
+368.6
+],
+"label": "Name (First, Middle, Last):"
+},
+{
+"name": "FillText134",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+157.2,
+312.5,
+242.9,
+327.5
+],
+"label": "Date of Birth (MM/DD/YYYY):"
+},
+{
+"name": "FillText154",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 11,
+"rect": [
+133.5,
+567.5,
+383.0,
+580.3
+],
+"label": "ATTORNEY FOR (Name):"
+},
+{
+"name": "date",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+101.7,
+29.9,
+197.4,
+48.1
+],
+"label": "Filing Options:"
+},
+{
+"name": "FillText158",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 11,
+"rect": [
+296.5,
+588.1,
+383.0,
+599.2
+],
+"label": "TELEPHONE NO.:"
+},
+{
+"name": "CheckBox33",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 5,
+"rect": [
+378.9,
+588.0,
+397.7,
+597.9
+],
+"label": "(4)"
+},
+{
+"name": "CheckBox17b",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 11,
+"rect": [
+60.6,
+355.6,
+71.4,
+366.2
+],
+"label": "for the following reasons:"
+},
+{
+"name": "otherparent_party",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 19,
+"rect": [
+151.5,
+554.8,
+394.1,
+570.1
+],
+"label": "OTHER PARENT/PARTY:"
+},
+{
+"name": "CheckBox124#0you",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 19,
+"rect": [
+78.8,
+528.2,
+97.0,
+538.9
+],
+"label": "DECLARATION OF DISCLOSURE"
+},
+{
+"name": "FillText26",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 12,
+"rect": [
+310.2,
+625.5,
+399.5,
+637.2
+],
+"label": "FAX NO. (Optional):"
+},
+{
+"name": "FillText146",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 11,
+"rect": [
+133.6,
+577.6,
+383.1,
+588.7
+],
+"label": "E-MAIL ADDRESS (Optional):"
+},
+{
+"name": "FillTextRiverside",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+34.3,
+188.0,
+220.9,
+200.2
+],
+"label": "Where is your case filed?"
+},
+{
+"name": "Text12Hemet",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+33.4,
+168.2,
+292.7,
+179.7
+],
+"label": "Where is your case filed?"
+},
+{
+"name": "FillText182Indio",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+320.4,
+188.3,
+510.0,
+201.1
+],
+"label": "Age:"
+},
+{
+"name": "Text13Blythe",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+320.3,
+167.4,
+509.9,
+182.2
+],
+"label": "Age:"
+},
+{
+"name": "TypeofCase",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+21.0,
+527.7,
+31.3,
+538.0
+],
+"label": "Type of Case"
+},
+{
+"name": "MinorChildrenYesNo",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+384.6,
+467.9,
+395.0,
+478.2
+],
+"label": ""
+},
+{
+"name": "HowManyChildren",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+554.2,
+464.3,
+596.1,
+479.3
+],
+"label": "How many?"
+},
+{
+"name": "5",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 7,
+"rect": [
+118.3,
+636.0,
+199.2,
+650.8
+],
+"label": "ATTORNEY FOR (name):"
+},
+{
+"name": "Check Boxdissolution",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 4,
+"rect": [
+182.5,
+541.6,
+201.1,
+551.1
+],
+"label": "Dissolution (Divorce) of:"
+},
+{
+"name": "dp1",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 4,
+"rect": [
+279.2,
+541.5,
+297.9,
+551.0
+],
+"label": "Marriage"
+},
+{
+"name": "Check BoxLS",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 4,
+"rect": [
+182.5,
+529.8,
+201.1,
+539.3
+],
+"label": "Legal Separation of:"
+},
+{
+"name": "ldp1",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 4,
+"rect": [
+279.1,
+529.8,
+297.8,
+539.3
+],
+"label": "Marriage"
+},
+{
+"name": "Check BoxNullity",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 4,
+"rect": [
+182.5,
+517.0,
+201.1,
+526.5
+],
+"label": "Nullity of:"
+},
+{
+"name": "nmdp1",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 4,
+"rect": [
+279.2,
+517.0,
+297.9,
+526.5
+],
+"label": "Marriage"
+},
+{
+"name": "Check Box8",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 4,
+"rect": [
+317.5,
+553.7,
+337.2,
+564.5
+],
+"label": "PETITION FOR"
+},
+{
+"name": "dpnc",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 4,
+"rect": [
+66.0,
+456.3,
+85.0,
+466.1
+],
+"label": "c."
+},
+{
+"name": "CheckBox24",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 4,
+"rect": [
+66.0,
+425.0,
+84.9,
+434.9
+],
+"label": "a."
+},
+{
+"name": "CheckBox24b",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 4,
+"rect": [
+132.4,
+425.2,
+151.5,
+435.2
+],
+"label": "Petitioner"
+},
+{
+"name": "2c",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 4,
+"rect": [
+65.9,
+392.5,
+84.7,
+402.3
+],
+"label": "b."
+},
+{
+"name": "2b",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 4,
+"rect": [
+65.9,
+368.5,
+84.8,
+378.3
+],
+"label": "c."
+},
+{
+"name": "marriedbox1a",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 4,
+"rect": [
+66.0,
+485.8,
+84.9,
+495.9
+],
+"label": "a."
+},
+{
+"name": "FillText142",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 4,
+"rect": [
+446.0,
+313.6,
+546.8,
+328.4
+],
+"label": "Date of separation (specify):"
+},
+{
+"name": "FillText141",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 4,
+"rect": [
+342.2,
+301.1,
+380.1,
+315.8
+],
+"label": "Time from date of marriage to date of separation (specify):"
+},
+{
+"name": "FillText140",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 4,
+"rect": [
+407.0,
+301.7,
+444.9,
+316.4
+],
+"label": "Years"
+},
+{
+"name": "dpca",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 4,
+"rect": [
+66.4,
+471.1,
+85.1,
+481.0
+],
+"label": "b."
+},
+{
+"name": "partnershipdate",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 4,
+"rect": [
+105.3,
+278.0,
+313.9,
+292.7
+],
+"label": "Time from date of marriage to date of separation (specify):"
+},
+{
+"name": "DOSDP",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 4,
+"rect": [
+444.3,
+279.3,
+545.0,
+294.1
+],
+"label": "(2) Date of separation (specify):"
+},
+{
+"name": "YEARS DP",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 4,
+"rect": [
+443.8,
+264.0,
+479.1,
+278.7
+],
+"label": "(3)"
+},
+{
+"name": "MONTHS DP",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 4,
+"rect": [
+506.3,
+263.7,
+541.6,
+278.4
+],
+"label": "Years"
+},
+{
+"name": "FillText127",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 4,
+"rect": [
+64.7,
+152.2,
+314.3,
+165.2
+],
+"label": "Child's name"
+},
+{
+"name": "FillText126",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 4,
+"rect": [
+315.1,
+152.2,
+403.1,
+165.2
+],
+"label": "Birthdate"
+},
+{
+"name": "FillText125",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 4,
+"rect": [
+404.8,
+152.2,
+456.5,
+165.2
+],
+"label": "Birthdate"
+},
+{
+"name": "CheckBox14",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 4,
+"rect": [
+105.3,
+140.2,
+124.4,
+150.4
+],
+"label": "(1)"
+},
+{
+"name": "UNBORN",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 4,
+"rect": [
+338.1,
+140.7,
+356.9,
+150.6
+],
+"label": "(2)"
+},
+{
+"name": "Check Boxid",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 5,
+"rect": [
+111.0,
+647.2,
+129.8,
+657.1
+],
+"label": "(1)"
+},
+{
+"name": "CheckBox44",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+301.7,
+646.9,
+320.4,
+656.7
+],
+"label": "(2)"
+},
+{
+"name": "CheckBox47",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+111.0,
+618.2,
+129.7,
+627.8
+],
+"label": "(1)"
+},
+{
+"name": "CheckBox36",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 5,
+"rect": [
+207.4,
+617.8,
+226.3,
+627.5
+],
+"label": "(2)"
+},
+{
+"name": "CheckBox41",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 5,
+"rect": [
+110.8,
+587.8,
+129.5,
+597.5
+],
+"label": "(1)"
+},
+{
+"name": "CheckBox38",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 5,
+"rect": [
+110.4,
+564.1,
+129.3,
+573.8
+],
+"label": "(2)"
+},
+{
+"name": "CheckBox32",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+110.9,
+550.1,
+129.6,
+559.9
+],
+"label": "(3)"
+},
+{
+"name": "CheckBox34",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 5,
+"rect": [
+379.1,
+569.4,
+397.8,
+579.0
+],
+"label": "(5)"
+},
+{
+"name": "CheckBox35",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 5,
+"rect": [
+378.7,
+550.4,
+397.5,
+560.3
+],
+"label": "(6)"
+},
+{
+"name": "CheckBox7300",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+400.6,
+506.6,
+419.3,
+516.5
+],
+"label": "Legal custody of children to ........................................................."
+},
+{
+"name": "CheckBox73",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 5,
+"rect": [
+336.8,
+506.8,
+355.6,
+516.5
+],
+"label": "Legal custody of children to ........................................................."
+},
+{
+"name": "CheckBox69730",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+400.6,
+490.0,
+419.3,
+499.7
+],
+"label": "...................................................."
+},
+{
+"name": "CheckBox69",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 5,
+"rect": [
+336.8,
+489.9,
+355.6,
+499.7
+],
+"label": "...................................................."
+},
+{
+"name": "CheckBox69A567",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+400.5,
+474.8,
+419.5,
+484.7
+],
+"label": "Child visitation (parenting time) be granted to ............................."
+},
+{
+"name": "CheckBox69A",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 5,
+"rect": [
+336.9,
+474.8,
+355.6,
+484.6
+],
+"label": "Child visitation (parenting time) be granted to ............................."
+},
+{
+"name": "CheckBox57",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+148.8,
+457.2,
+167.4,
+467.0
+],
+"label": "As requested in"
+},
+{
+"name": "CheckBox57a",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+254.0,
+457.0,
+272.8,
+466.9
+],
+"label": "(cid:73)(cid:82)(cid:85)(cid:80) (cid:41)(cid:47)(cid:16)(cid:22)(cid:20)(cid:20)"
+},
+{
+"name": "CheckBox57b",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+369.0,
+457.2,
+387.8,
+467.0
+],
+"label": "(cid:73)(cid:82)(cid:85)(cid:80) (cid:41)(cid:47)(cid:16)(cid:22)(cid:20)(cid:21)"
+},
+{
+"name": "CheckBox57c",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+148.3,
+441.0,
+167.1,
+450.8
+],
+"label": "As requested in"
+},
+{
+"name": "CheckBox57d",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+254.0,
+441.2,
+272.6,
+451.1
+],
+"label": "(cid:73)(cid:82)(cid:85)(cid:80) (cid:41)(cid:47)(cid:16)(cid:22)(cid:23)(cid:20)(cid:11)(cid:39)(cid:12)"
+},
+{
+"name": "CheckBox57e",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+369.3,
+441.3,
+388.1,
+451.0
+],
+"label": "(cid:73)(cid:82)(cid:85)(cid:80) (cid:41)(cid:47)(cid:16)(cid:22)(cid:23)(cid:20)(cid:11)E(cid:12)"
+},
+{
+"name": "CheckBox629",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+66.3,
+291.4,
+85.2,
+301.4
+],
+"label": "a."
+},
+{
+"name": "CheckBox621",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+294.9,
+291.1,
+313.7,
+301.1
+],
+"label": "Spousal or domestic partner support payable to"
+},
+{
+"name": "CheckBox74",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+379.2,
+291.1,
+398.1,
+301.0
+],
+"label": "P(cid:72)(cid:87)(cid:76)(cid:87)(cid:76)(cid:82)(cid:81)(cid:72)(cid:85)"
+},
+{
+"name": "CheckBox622",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+66.3,
+277.8,
+85.1,
+287.7
+],
+"label": "b."
+},
+{
+"name": "CheckBox623",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+403.9,
+277.8,
+422.6,
+287.6
+],
+"label": "P(cid:72)(cid:87)(cid:76)(cid:87)(cid:76)(cid:82)(cid:81)(cid:72)(cid:85)"
+},
+{
+"name": "reservess",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+66.5,
+262.6,
+85.2,
+272.3
+],
+"label": "c."
+},
+{
+"name": "reservepet",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+360.9,
+262.5,
+379.6,
+272.3
+],
+"label": "Reserve for future determination the issue of support payable to"
+},
+{
+"name": "reserveresp",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+443.5,
+262.5,
+462.2,
+272.4
+],
+"label": "P(cid:72)(cid:87)(cid:76)(cid:87)(cid:76)(cid:82)(cid:81)(cid:72)(cid:85)"
+},
+{
+"name": "nosepprop",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+66.2,
+177.6,
+85.0,
+187.6
+],
+"label": "a."
+},
+{
+"name": "CheckBox62",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 5,
+"rect": [
+66.3,
+162.1,
+85.0,
+171.8
+],
+"label": "b."
+},
+{
+"name": "CheckBoxflist",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 5,
+"rect": [
+91.9,
+145.9,
+110.7,
+155.8
+],
+"label": "Confirm as separate property the assets and debts in"
+},
+{
+"name": "FillText119789",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 5,
+"rect": [
+60.4,
+97.6,
+575.0,
+143.2
+],
+"label": "the following list."
+},
+{
+"name": "CheckBox31073096",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 6,
+"rect": [
+65.8,
+679.5,
+84.7,
+689.5
+],
+"label": "a."
+},
+{
+"name": "CheckBox624",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 6,
+"rect": [
+66.0,
+664.9,
+84.8,
+674.7
+],
+"label": "b."
+},
+{
+"name": "FillText160333",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 6,
+"rect": [
+57.5,
+588.0,
+581.1,
+628.5
+],
+"label": "as follows (specify):"
+},
+{
+"name": "attorneyfees",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 6,
+"rect": [
+66.1,
+497.0,
+84.8,
+506.7
+],
+"label": "a."
+},
+{
+"name": "CheckBox7411",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 6,
+"rect": [
+253.4,
+496.8,
+272.1,
+506.6
+],
+"label": "Attorney's fees and costs payable by"
+},
+{
+"name": "CheckBox749",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 6,
+"rect": [
+329.7,
+496.6,
+348.4,
+506.2
+],
+"label": "P(cid:72)(cid:87)(cid:76)(cid:87)(cid:76)(cid:82)(cid:81)(cid:72)(cid:85)"
+},
+{
+"name": "CheckBox60",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 6,
+"rect": [
+66.4,
+481.7,
+85.1,
+491.4
+],
+"label": "b"
+},
+{
+"name": "FillText6654985",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 6,
+"rect": [
+287.2,
+477.4,
+576.5,
+494.7
+],
+"label": "Petitioner's former name be restored to (specify):"
+},
+{
+"name": "CheckBox59",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 6,
+"rect": [
+66.0,
+467.6,
+84.8,
+477.2
+],
+"label": "c."
+},
+{
+"name": "FillText161",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 6,
+"rect": [
+157.8,
+447.3,
+576.8,
+476.4
+],
+"label": "Petitioner's former name be restored to (specify):"
+},
+{
+"name": "CheckBox48",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 6,
+"rect": [
+90.7,
+386.4,
+109.6,
+396.1
+],
+"label": "Other (specify):"
+},
+{
+"name": "TYPE_OR_PRINT_NAME1",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 6,
+"rect": [
+61.8,
+252.2,
+257.8,
+270.4
+],
+"label": "(TYPE OR PRINT NAME)"
+},
+{
+"name": "Check Box4",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 11,
+"rect": [
+343.6,
+139.8,
+353.8,
+148.7
+],
+"label": "(SIGNATURE)"
+},
+{
+"name": "Signature",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+379.9,
+49.1,
+608.5,
+70.7
+],
+"label": "How many?"
+},
+{
+"name": "Text37",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 6,
+"rect": [
+344.5,
+270.5,
+563.2,
+288.6
+],
+"label": "Date:"
+},
+{
+"name": "Group1",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+17.9,
+122.4,
+35.8,
+140.5
+],
+"label": "Filing Options:"
+},
+{
+"name": "PRINT",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Filter",
+"/Type",
+"/Subtype",
+"/FormType",
+"/BBox",
+"/Resources",
+"/Off"
+],
+"page": 1,
+"rect": [
+0.0,
+773.3,
+143.8,
+790.7
+],
+"label": ""
+},
+{
+"name": "ResetForm",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Filter",
+"/Type",
+"/Subtype",
+"/FormType",
+"/BBox",
+"/Resources",
+"/Off"
+],
+"page": 1,
+"rect": [
+457.9,
+773.8,
+601.7,
+792.0
+],
+"label": ""
+},
+{
+"name": "PRINT WARNING",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+0.8,
+729.6,
+143.6,
+771.3
+],
+"label": ""
+},
+{
+"name": "FillText143",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+175.6,
+500.2,
+309.5,
+515.2
+],
+"label": "Date of Marriage:"
+},
+{
+"name": "FillText87",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+157.2,
+403.6,
+595.4,
+418.6
+],
+"label": "Place of Birth (City/ State):"
+},
+{
+"name": "FillText137",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+286.4,
+382.9,
+336.7,
+397.9
+],
+"label": "Age:"
+},
+{
+"name": "FillText6different",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+157.2,
+333.3,
+595.4,
+348.3
+],
+"label": "Place of Birth (City/ State):"
+},
+{
+"name": "FillText133",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+286.4,
+312.2,
+336.1,
+327.2
+],
+"label": "Age:"
+},
+{
+"name": "NameChild3",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+157.2,
+281.7,
+595.4,
+296.7
+],
+"label": "Name (First, Middle, Last):"
+},
+{
+"name": "POBChild3",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+157.2,
+262.0,
+595.4,
+277.0
+],
+"label": "Place of Birth (City/ State):"
+},
+{
+"name": "DOBChild3",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+156.7,
+240.1,
+242.5,
+255.1
+],
+"label": "Date of Birth (MM/DD/YYYY):"
+},
+{
+"name": "AgeChild3",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+286.5,
+240.6,
+336.7,
+255.6
+],
+"label": "Age:"
+},
+{
+"name": "Text38",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+36.7,
+119.9,
+551.1,
+141.9
+],
+"label": "Filing Options:"
+},
+{
+"name": "Text13",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 1,
+"rect": [
+36.7,
+51.8,
+554.3,
+113.4
+],
+"label": "Filing Options:"
+},
+{
+"name": "Check Box1",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 5,
+"rect": [
+318.6,
+277.9,
+337.5,
+287.9
+],
+"label": "Terminate (end) the court's ability to award support to"
+},
+{
+"name": "CheckBox13121375",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 20,
+"rect": [
+65.8,
+507.6,
+84.5,
+517.6
+],
+"label": "a."
+},
+{
+"name": "CheckBox9121375",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 20,
+"rect": [
+63.8,
+403.3,
+83.2,
+413.3
+],
+"label": "d."
+},
+{
+"name": "CheckBox1",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 20,
+"rect": [
+347.5,
+403.1,
+366.4,
+412.9
+],
+"label": "(5)"
+},
+{
+"name": "CheckBox2",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 20,
+"rect": [
+347.8,
+378.1,
+366.5,
+387.9
+],
+"label": "(6)"
+},
+{
+"name": "CheckBox7777777777777777",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 20,
+"rect": [
+112.3,
+364.9,
+131.2,
+374.9
+],
+"label": "(2)"
+},
+{
+"name": "CheckBox3",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 20,
+"rect": [
+347.8,
+353.9,
+366.6,
+363.8
+],
+"label": "(7)"
+},
+{
+"name": "CheckBox6",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 20,
+"rect": [
+112.3,
+341.2,
+131.2,
+351.1
+],
+"label": "(3)"
+},
+{
+"name": "CheckBox5",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 20,
+"rect": [
+112.2,
+316.2,
+131.2,
+326.1
+],
+"label": "(4)"
+},
+{
+"name": "CheckBoxOther",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 20,
+"rect": [
+347.5,
+315.6,
+366.4,
+326.5
+],
+"label": "(8)"
+},
+{
+"name": "FillTextCertificate",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 20,
+"rect": [
+370.5,
+305.9,
+546.4,
+320.6
+],
+"label": "Expense Declaration (form             )"
+},
+{
+"name": "Text1",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 20,
+"rect": [
+370.4,
+294.0,
+546.6,
+308.3
+],
+"label": "(cid:50)(cid:87)(cid:75)(cid:72)(cid:85) (specify):"
+},
+{
+"name": "Text21",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 20,
+"rect": [
+370.4,
+282.0,
+546.6,
+296.3
+],
+"label": "(cid:50)(cid:87)(cid:75)(cid:72)(cid:85) (specify):"
+},
+{
+"name": "FillText53",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 20,
+"rect": [
+51.8,
+252.6,
+592.2,
+273.8
+],
+"label": "Expense Declaration (form             )"
+},
+{
+"name": "CheckBox17",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+65.1,
+566.8,
+83.6,
+576.5
+],
+"label": "c."
+},
+{
+"name": "FillText54",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+329.6,
+346.7,
+456.9,
+362.0
+],
+"label": "Other"
+},
+{
+"name": "FillText55121379",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 20,
+"rect": [
+327.7,
+214.8,
+481.2,
+229.7
+],
+"label": "at (time):"
+},
+{
+"name": "CheckBox16",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+64.9,
+591.5,
+83.6,
+601.2
+],
+"label": "b."
+},
+{
+"name": "FillText56",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 20,
+"rect": [
+379.0,
+199.8,
+592.2,
+214.8
+],
+"label": "Substituted service. I left the copies with or in the presence of (name):"
+},
+{
+"name": "FillText57",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 20,
+"rect": [
+294.5,
+185.0,
+592.2,
+199.9
+],
+"label": "who is (specify title or relationship to respondent):"
+},
+{
+"name": "CheckBox15",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 4,
+"rect": [
+65.5,
+82.4,
+84.2,
+92.3
+],
+"label": "e."
+},
+{
+"name": "FillText60",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 20,
+"rect": [
+132.6,
+122.2,
+282.7,
+137.2
+],
+"label": "on (date):"
+},
+{
+"name": "FillText61",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 20,
+"rect": [
+324.1,
+122.2,
+474.2,
+137.2
+],
+"label": "at (time):"
+},
+{
+"name": "CheckBox18",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+64.9,
+515.5,
+83.6,
+525.2
+],
+"label": "d."
+},
+{
+"name": "FillText63",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 21,
+"rect": [
+261.4,
+677.2,
+385.8,
+691.8
+],
+"label": "first-class mail, postage prepaid, on (date):"
+},
+{
+"name": "FillText64",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 21,
+"rect": [
+445.6,
+677.2,
+575.9,
+691.9
+],
+"label": "from (city):"
+},
+{
+"name": "CheckBox19",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+65.1,
+490.9,
+83.8,
+500.5
+],
+"label": "e."
+},
+{
+"name": "CheckBoxoutside",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 21,
+"rect": [
+98.7,
+627.3,
+117.6,
+637.4
+],
+"label": "(2)"
+},
+{
+"name": "CheckBox21121375",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 21,
+"rect": [
+64.8,
+600.2,
+83.6,
+611.8
+],
+"label": "d."
+},
+{
+"name": "FillText76",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 21,
+"rect": [
+207.0,
+600.6,
+575.9,
+615.3
+],
+"label": "d."
+},
+{
+"name": "CheckBox22",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 21,
+"rect": [
+65.3,
+583.9,
+84.1,
+596.2
+],
+"label": "d."
+},
+{
+"name": "FillText66",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 21,
+"rect": [
+88.9,
+552.4,
+575.9,
+567.0
+],
+"label": "Name:"
+},
+{
+"name": "FillText67",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 21,
+"rect": [
+88.9,
+514.0,
+575.9,
+551.6
+],
+"label": "Name:"
+},
+{
+"name": "FillText69",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 21,
+"rect": [
+131.7,
+498.5,
+575.9,
+513.2
+],
+"label": "Telephone number:"
+},
+{
+"name": "CheckBoxexempt",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/",
+"/Off"
+],
+"page": 21,
+"rect": [
+67.2,
+470.5,
+86.0,
+480.7
+],
+"label": "a."
+},
+{
+"name": "CheckBoxnot registered",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/",
+"/Off"
+],
+"page": 21,
+"rect": [
+67.4,
+456.3,
+86.2,
+466.4
+],
+"label": "b."
+},
+{
+"name": "CheckBoxregistered",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/",
+"/Off"
+],
+"page": 21,
+"rect": [
+67.4,
+444.4,
+86.1,
+454.5
+],
+"label": "c."
+},
+{
+"name": "CheckBoxemployer",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/",
+"/Off"
+],
+"page": 21,
+"rect": [
+256.6,
+443.9,
+275.4,
+453.8
+],
+"label": "a registered California process server:"
+},
+{
+"name": "CheckBoxcontractor",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/",
+"/Off"
+],
+"page": 21,
+"rect": [
+356.5,
+444.0,
+375.3,
+453.7
+],
+"label": "an employee or"
+},
+{
+"name": "FillText72",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 21,
+"rect": [
+178.4,
+426.1,
+356.1,
+440.7
+],
+"label": "(1) Registration no.:"
+},
+{
+"name": "FillText73",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 21,
+"rect": [
+143.2,
+414.1,
+355.9,
+427.6
+],
+"label": "(2) County:"
+},
+{
+"name": "FillText74",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 21,
+"rect": [
+253.1,
+400.2,
+355.2,
+413.7
+],
+"label": "(3) The fee for service was (specify):  $"
+},
+{
+"name": "sheriff",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 21,
+"rect": [
+50.1,
+353.0,
+69.4,
+364.6
+],
+"label": "6."
+},
+{
+"name": "FillText75newbox",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 21,
+"rect": [
+66.1,
+141.2,
+190.9,
+159.4
+],
+"label": "Date:"
+},
+{
+"name": "NAME_OF_PERSON_WHO_SERVED_PAPERS",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 21,
+"rect": [
+66.1,
+111.5,
+261.2,
+129.7
+],
+"label": "Date:"
+},
+{
+"name": "Cityofprimaryresidence",
+"type": "/Tx",
+"tu": "City of Party's Primary Residence",
+"states": [],
+"page": 11,
+"rect": [
+86.5,
+313.4,
+364.9,
+327.3
+],
+"label": "City"
+},
+{
+"name": "Zipcodeofprimaryresidence",
+"type": "/Tx",
+"tu": "Party's Primary Residence Zip Code",
+"states": [],
+"page": 11,
+"rect": [
+424.0,
+313.8,
+586.0,
+329.4
+],
+"label": "Zip code"
+},
+{
+"name": "Checkbox10",
+"type": "/Btn",
+"tu": "Other reason why the case should be tried or heard in the designated court.",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 11,
+"rect": [
+61.2,
+290.5,
+72.0,
+301.1
+],
+"label": "City"
+},
+{
+"name": "Attorneyorpartywithout attorney",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 11,
+"rect": [
+118.0,
+287.5,
+598.9,
+302.6
+],
+"label": "Other:"
+},
+{
+"name": "check box email",
+"type": "/Btn",
+"tu": "E-mail Agreement",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 12,
+"rect": [
+78.0,
+433.3,
+89.2,
+444.5
+],
+"label": "complete the following:"
+},
+{
+"name": "Emailaddress1",
+"type": "/Tx",
+"tu": "E-Mail Address",
+"states": [],
+"page": 12,
+"rect": [
+77.6,
+401.9,
+555.2,
+414.6
+],
+"label": "information sent to is:"
+},
+{
+"name": "Checkbox no help",
+"type": "/Btn",
+"tu": "Self-Help Information",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 12,
+"rect": [
+77.9,
+308.3,
+89.0,
+319.4
+],
+"label": "following:"
+},
+{
+"name": "declarant",
+"type": "/Btn",
+"tu": "Party",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 12,
+"rect": [
+188.8,
+104.4,
+196.0,
+110.6
+],
+"label": "ATTORNEY"
+},
+{
+"name": "CheckBox24VIXEN",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 15,
+"rect": [
+65.8,
+254.9,
+84.6,
+264.6
+],
+"label": "a."
+},
+{
+"name": "CheckBox22#0grape",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 15,
+"rect": [
+174.2,
+215.1,
+193.1,
+225.0
+],
+"label": "I file state tax returns in"
+},
+{
+"name": "OPIncome",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 15,
+"rect": [
+522.8,
+183.7,
+590.4,
+199.4
+],
+"label": "4. Other party's income. I estimate the gross monthly income (before taxes) of the other party in this case at (specify): $"
+},
+{
+"name": "EstimateExplain",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 15,
+"rect": [
+192.2,
+169.8,
+590.8,
+185.5
+],
+"label": "This estimate is based on (explain):"
+},
+{
+"name": "FillText2900",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+481.3,
+624.2,
+526.4,
+638.2
+],
+"label": "$"
+},
+{
+"name": "FillText2901",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+529.5,
+623.7,
+569.5,
+637.8
+],
+"label": "$"
+},
+{
+"name": "FillText2902",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+481.3,
+611.7,
+526.4,
+627.4
+],
+"label": "b. Overtime (gross, before taxes)................................................................................................................ $"
+},
+{
+"name": "FillText2903",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+529.5,
+611.1,
+569.5,
+627.9
+],
+"label": "b. Overtime (gross, before taxes)................................................................................................................ $"
+},
+{
+"name": "FillText2904",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+481.4,
+599.8,
+526.6,
+615.5
+],
+"label": "c. Commissions or bonuses......................................................................................................................... $"
+},
+{
+"name": "FillText2905",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+529.5,
+599.6,
+569.5,
+615.3
+],
+"label": "c. Commissions or bonuses......................................................................................................................... $"
+},
+{
+"name": "FillText2906",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+481.3,
+586.3,
+526.4,
+602.0
+],
+"label": "$"
+},
+{
+"name": "FillText2907",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+529.5,
+586.2,
+569.5,
+602.4
+],
+"label": "$"
+},
+{
+"name": "Check Box3",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 16,
+"rect": [
+368.2,
+576.7,
+387.0,
+586.3
+],
+"label": "from a different marriage"
+},
+{
+"name": "FillText2908",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+481.3,
+574.9,
+526.3,
+590.6
+],
+"label": "$"
+},
+{
+"name": "FillText2909",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+529.5,
+574.9,
+569.5,
+590.8
+],
+"label": "$"
+},
+{
+"name": "FillText2910",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+481.3,
+563.0,
+526.3,
+577.7
+],
+"label": "from a different domestic partnership $"
+},
+{
+"name": "FillText2911",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+529.5,
+563.0,
+569.3,
+577.0
+],
+"label": "from a different domestic partnership $"
+},
+{
+"name": "FillText2912",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+481.3,
+549.3,
+526.3,
+564.0
+],
+"label": "g. Pension/retirement fund payments.......................................................................................................... $"
+},
+{
+"name": "FillText2913",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+529.5,
+549.1,
+569.5,
+564.8
+],
+"label": "g. Pension/retirement fund payments.......................................................................................................... $"
+},
+{
+"name": "FillText2914",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+481.3,
+537.3,
+526.3,
+553.0
+],
+"label": "h. Social Security retirement (not SSI)......................................................................................................... $"
+},
+{
+"name": "FillText2915",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+529.5,
+537.3,
+569.5,
+552.4
+],
+"label": "h. Social Security retirement (not SSI)......................................................................................................... $"
+},
+{
+"name": "FillText2916",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+481.3,
+524.9,
+526.3,
+540.6
+],
+"label": "$"
+},
+{
+"name": "FillText2917",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+529.5,
+525.1,
+569.5,
+540.0
+],
+"label": "$"
+},
+{
+"name": "FillText2918",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+481.3,
+512.0,
+526.3,
+527.7
+],
+"label": "j. Unemployment compensation................................................................................................................. $"
+},
+{
+"name": "FillText2919",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+529.5,
+511.7,
+569.3,
+527.9
+],
+"label": "j. Unemployment compensation................................................................................................................. $"
+},
+{
+"name": "FillText2920",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+481.3,
+499.9,
+526.3,
+515.8
+],
+"label": "k. Workers' compensation............................................................................................................................ $"
+},
+{
+"name": "FillText2921",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+529.5,
+499.7,
+569.5,
+515.4
+],
+"label": "k. Workers' compensation............................................................................................................................ $"
+},
+{
+"name": "FillText2922",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+481.3,
+488.2,
+526.3,
+503.1
+],
+"label": "$"
+},
+{
+"name": "FillText2923",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+529.5,
+488.1,
+569.5,
+503.3
+],
+"label": "$"
+},
+{
+"name": "FillText2924",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+482.4,
+452.5,
+527.4,
+468.9
+],
+"label": "a. Dividends/interest.................................................................................................................................... $"
+},
+{
+"name": "FillText2925",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.5,
+452.3,
+570.5,
+468.8
+],
+"label": "a. Dividends/interest.................................................................................................................................... $"
+},
+{
+"name": "FillText2926",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+482.4,
+439.9,
+527.4,
+455.7
+],
+"label": "b. Rental property income........................................................................................................................... $"
+},
+{
+"name": "FillText2927",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.5,
+441.0,
+570.5,
+456.7
+],
+"label": "b. Rental property income........................................................................................................................... $"
+},
+{
+"name": "FillText2928",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+482.4,
+428.5,
+527.4,
+444.3
+],
+"label": "c. Trust income............................................................................................................................................ $"
+},
+{
+"name": "FillText2929",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.5,
+428.7,
+570.5,
+444.6
+],
+"label": "c. Trust income............................................................................................................................................ $"
+},
+{
+"name": "FillText2930",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+482.5,
+416.5,
+527.5,
+432.3
+],
+"label": "$"
+},
+{
+"name": "FillText2931",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.5,
+416.6,
+570.5,
+432.4
+],
+"label": "$"
+},
+{
+"name": "FillText2932",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+482.5,
+395.6,
+527.7,
+411.3
+],
+"label": "Income from self-employment, after business expenses for all businesses......................................... $"
+},
+{
+"name": "FillText2933",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.5,
+395.7,
+570.5,
+411.4
+],
+"label": "Income from self-employment, after business expenses for all businesses......................................... $"
+},
+{
+"name": "FillText2935",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.3,
+224.4,
+570.3,
+240.1
+],
+"label": "a. Required union dues.................................................................................................................................................... $"
+},
+{
+"name": "FillText2936",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.5,
+213.3,
+570.4,
+229.0
+],
+"label": "b. Required retirement payments (not Social Security, FICA, 401(k), or IRA).................................................................. $"
+},
+{
+"name": "FillText2937",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.5,
+201.4,
+570.4,
+217.1
+],
+"label": "c. Medical, hospital, dental, and other health insurance premiums (total monthly amount)............................................. $"
+},
+{
+"name": "FillText2938",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.5,
+187.5,
+570.4,
+202.7
+],
+"label": "d. Child support that I pay for children from other relationships....................................................................................... $"
+},
+{
+"name": "FillText2939",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.5,
+175.4,
+570.4,
+191.2
+],
+"label": "$"
+},
+{
+"name": "FillText2940",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.5,
+163.1,
+570.4,
+178.9
+],
+"label": "f. Partner support that I pay by court order from a different domestic partnership.......................................................... $"
+},
+{
+"name": "FillText2941",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.5,
+150.5,
+570.4,
+165.7
+],
+"label": "g. Necessary job-related expenses not reimbursed by my employer (attach explanation labeled \"Question 10g\")......... $"
+},
+{
+"name": "FillText2942",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.5,
+117.0,
+570.4,
+129.0
+],
+"label": "a. Cash and checking accounts, savings, credit union, money market, and other deposit accounts............................... $"
+},
+{
+"name": "FillText2943",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.5,
+104.2,
+570.4,
+120.1
+],
+"label": "b. Stocks, bonds, and other assets I could easily sell.......................................................................................................$"
+},
+{
+"name": "FillText2944",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 16,
+"rect": [
+530.5,
+91.3,
+570.4,
+107.1
+],
+"label": "$"
+},
+{
+"name": "FillText35046",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+517.1,
+554.0,
+571.6,
+569.7
+],
+"label": "h. Laundry and cleaning................................... $"
+},
+{
+"name": "FillText35034",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+256.6,
+540.2,
+314.4,
+555.9
+],
+"label": "mortgage.......... $"
+},
+{
+"name": "FillText35047",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+517.1,
+540.1,
+571.6,
+555.8
+],
+"label": "i. Clothes......................................................... $"
+},
+{
+"name": "FillText35048",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+517.1,
+527.6,
+571.6,
+543.4
+],
+"label": "j. Education..................................................... $"
+},
+{
+"name": "FillText35035",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+194.2,
+515.2,
+252.0,
+530.9
+],
+"label": "$"
+},
+{
+"name": "FillText35049",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+517.1,
+515.5,
+571.6,
+531.2
+],
+"label": "k. Entertainment, gifts, and vacation................ $"
+},
+{
+"name": "FillText35036",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+194.0,
+502.7,
+251.8,
+517.9
+],
+"label": "$"
+},
+{
+"name": "FillText35037",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+257.0,
+487.9,
+314.8,
+503.6
+],
+"label": "(2) Real property taxes.................................. $"
+},
+{
+"name": "FillText35050",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+517.5,
+492.6,
+572.0,
+508.3
+],
+"label": "(insurance, gas, repairs, bus, etc.)............... $"
+},
+{
+"name": "FillText35038",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+257.1,
+465.2,
+314.9,
+480.9
+],
+"label": "(if not included above).............................. $"
+},
+{
+"name": "FillText35051",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+517.1,
+468.9,
+571.6,
+484.6
+],
+"label": "auto, home, or health insurance)................. $"
+},
+{
+"name": "FillText35039",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+257.1,
+453.0,
+314.9,
+468.7
+],
+"label": "(4) Maintenance and repair........................... $"
+},
+{
+"name": "FillText35052",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+517.1,
+455.4,
+571.6,
+471.1
+],
+"label": "n. Savings and investments............................. $"
+},
+{
+"name": "FillText35040",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+257.1,
+438.1,
+314.9,
+453.8
+],
+"label": "b. Health-care costs not paid by insurance........ $"
+},
+{
+"name": "FillText35053",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+517.1,
+443.0,
+571.5,
+458.8
+],
+"label": "o. Charitable contributions................................ $"
+},
+{
+"name": "FillText35041",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+257.1,
+423.6,
+314.9,
+439.3
+],
+"label": "c. Child care....................................................... $"
+},
+{
+"name": "FillText35054",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+517.1,
+419.8,
+571.6,
+435.5
+],
+"label": "(itemize below in 14 and insert total here)... $"
+},
+{
+"name": "FillText35042",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+257.1,
+409.1,
+314.9,
+424.8
+],
+"label": "d. Groceries and household supplies................. $"
+},
+{
+"name": "FillText35055",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+400.9,
+405.4,
+507.5,
+420.2
+],
+"label": "q. Other (specify):"
+},
+{
+"name": "FillText35056",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+517.1,
+405.9,
+571.5,
+421.1
+],
+"label": "$"
+},
+{
+"name": "FillText35043",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+257.1,
+395.2,
+314.9,
+410.9
+],
+"label": "e. Eating out....................................................... $"
+},
+{
+"name": "FillText35044",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+257.1,
+380.0,
+314.9,
+395.7
+],
+"label": "f. Utilities (gas, electric, water, trash)................ $"
+},
+{
+"name": "FillText35057",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+517.3,
+376.9,
+572.2,
+392.6
+],
+"label": "$"
+},
+{
+"name": "FillText35045",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+257.1,
+365.2,
+314.9,
+380.9
+],
+"label": "g. Telephone, cell phone, and e-mail................. $"
+},
+{
+"name": "FillText35058",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+517.3,
+361.0,
+571.7,
+376.8
+],
+"label": "$"
+},
+{
+"name": "FillText35059",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+50.5,
+297.8,
+210.8,
+313.5
+],
+"label": "Paid to"
+},
+{
+"name": "FillText35060",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+214.5,
+297.9,
+345.7,
+313.6
+],
+"label": "For"
+},
+{
+"name": "FillText35061",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+367.5,
+297.7,
+419.4,
+313.4
+],
+"label": "Amount"
+},
+{
+"name": "FillText35062",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+426.2,
+297.7,
+476.8,
+313.4
+],
+"label": "$"
+},
+{
+"name": "FillText35063",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+477.4,
+297.7,
+575.4,
+313.4
+],
+"label": "$"
+},
+{
+"name": "FillText35064",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+50.5,
+282.6,
+210.8,
+298.3
+],
+"label": "Paid to"
+},
+{
+"name": "FillText35065",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+214.5,
+282.6,
+345.7,
+298.3
+],
+"label": "For"
+},
+{
+"name": "FillText35066",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+367.5,
+282.3,
+419.4,
+298.0
+],
+"label": "$"
+},
+{
+"name": "FillText35067",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+426.2,
+282.8,
+476.7,
+298.5
+],
+"label": "$"
+},
+{
+"name": "FillText35068",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+477.4,
+282.8,
+575.3,
+298.5
+],
+"label": "$"
+},
+{
+"name": "FillText35069",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+50.5,
+267.1,
+210.8,
+282.8
+],
+"label": "Paid to"
+},
+{
+"name": "FillText35070",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+214.5,
+267.1,
+345.7,
+282.8
+],
+"label": "For"
+},
+{
+"name": "FillText35071",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+367.5,
+267.0,
+419.4,
+282.7
+],
+"label": "$"
+},
+{
+"name": "FillText35072",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+426.3,
+267.1,
+476.8,
+282.8
+],
+"label": "$"
+},
+{
+"name": "FillText35073",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+477.4,
+267.6,
+575.3,
+283.3
+],
+"label": "$"
+},
+{
+"name": "FillText35074",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+50.5,
+251.8,
+210.8,
+267.5
+],
+"label": "Paid to"
+},
+{
+"name": "FillText35075",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+214.5,
+251.7,
+345.7,
+267.4
+],
+"label": "For"
+},
+{
+"name": "FillText35076",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+367.5,
+251.6,
+419.4,
+267.3
+],
+"label": "$"
+},
+{
+"name": "FillText35077",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+426.3,
+251.4,
+476.8,
+267.1
+],
+"label": "$"
+},
+{
+"name": "FillText35078",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+477.4,
+251.7,
+575.3,
+267.4
+],
+"label": "$"
+},
+{
+"name": "FillText35079",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+50.5,
+236.1,
+210.8,
+251.8
+],
+"label": "Paid to"
+},
+{
+"name": "FillText35080",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+214.5,
+236.1,
+345.7,
+251.8
+],
+"label": "For"
+},
+{
+"name": "FillText35081",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+367.6,
+235.9,
+419.4,
+251.6
+],
+"label": "$"
+},
+{
+"name": "FillText35082",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+426.3,
+235.7,
+476.8,
+251.4
+],
+"label": "$"
+},
+{
+"name": "FillText35083",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+477.4,
+235.7,
+575.3,
+251.8
+],
+"label": "$"
+},
+{
+"name": "FillText35084",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+50.5,
+219.4,
+210.8,
+236.1
+],
+"label": "Paid to"
+},
+{
+"name": "FillText35085",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+214.5,
+219.4,
+345.7,
+236.2
+],
+"label": "For"
+},
+{
+"name": "FillText35086",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+367.6,
+219.2,
+419.4,
+235.9
+],
+"label": "$"
+},
+{
+"name": "FillText35087",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+426.2,
+219.4,
+476.7,
+236.1
+],
+"label": "$"
+},
+{
+"name": "FillText35088",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 17,
+"rect": [
+477.3,
+219.4,
+575.3,
+235.9
+],
+"label": "$"
+},
+{
+"name": "FillText4451",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+143.0,
+619.3,
+190.6,
+635.0
+],
+"label": "a."
+},
+{
+"name": "FillText4452",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+323.7,
+619.5,
+372.4,
+635.2
+],
+"label": "b. The children spend"
+},
+{
+"name": "FillText4453",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+65.2,
+547.4,
+570.2,
+607.7
+],
+"label": "(If you're not sure about percentage or it has not been agreed on, please describe your parenting schedule here.)"
+},
+{
+"name": "CheckBox4454",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 18,
+"rect": [
+66.1,
+522.5,
+85.1,
+534.0
+],
+"label": "a."
+},
+{
+"name": "CheckBox4455",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/2",
+"/Off"
+],
+"page": 18,
+"rect": [
+123.1,
+522.6,
+142.1,
+534.2
+],
+"label": "I do"
+},
+{
+"name": "FillText4456",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+183.4,
+507.5,
+566.7,
+523.3
+],
+"label": "b. Name of insurance company:"
+},
+{
+"name": "FillText4457",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+65.2,
+463.8,
+570.2,
+497.3
+],
+"label": "b. Name of insurance company:"
+},
+{
+"name": "FillText4458",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+380.8,
+446.3,
+518.0,
+462.0
+],
+"label": "d. The monthly cost for the children's health insurance is or would be (specify): $"
+},
+{
+"name": "FillText4459",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+65.0,
+424.1,
+570.0,
+439.8
+],
+"label": "d. The monthly cost for the children's health insurance is or would be (specify): $"
+},
+{
+"name": "FillText4460",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+415.0,
+400.2,
+482.5,
+415.1
+],
+"label": "a. Childcare so I can work or get job training.................................................................... $"
+},
+{
+"name": "FillText4461",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+415.1,
+387.8,
+482.6,
+403.5
+],
+"label": "b. Children's health care not covered by insurance........................................................... $"
+},
+{
+"name": "FillText4462",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+415.1,
+374.8,
+482.6,
+391.4
+],
+"label": "c. Travel expenses for visitation........................................................................................ $"
+},
+{
+"name": "FillText4463",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+415.0,
+361.2,
+482.5,
+376.9
+],
+"label": "d. Children's educational or other special needs (specify below):..................................... $"
+},
+{
+"name": "FillText4464",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+67.7,
+347.0,
+572.7,
+362.7
+],
+"label": "c. Travel expenses for visitation........................................................................................ $"
+},
+{
+"name": "FillText4465",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+392.4,
+307.7,
+459.2,
+322.5
+],
+"label": "$"
+},
+{
+"name": "FillText4466",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+480.4,
+305.2,
+570.4,
+320.1
+],
+"label": "$"
+},
+{
+"name": "FillText4467",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+392.7,
+287.0,
+459.5,
+302.7
+],
+"label": "$"
+},
+{
+"name": "FillText4468",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+479.8,
+284.8,
+569.8,
+300.5
+],
+"label": "$"
+},
+{
+"name": "FillText4469",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+392.1,
+263.3,
+458.8,
+279.0
+],
+"label": "$"
+},
+{
+"name": "FillText4470",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+480.1,
+261.8,
+570.1,
+277.5
+],
+"label": "$"
+},
+{
+"name": "FillText4471",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+80.2,
+202.3,
+585.2,
+251.7
+],
+"label": "are living with me.................................................................................."
+},
+{
+"name": "FillText4472",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+392.3,
+191.3,
+459.3,
+207.0
+],
+"label": "$"
+},
+{
+"name": "FillText4473",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+50.4,
+122.5,
+569.8,
+181.1
+],
+"label": "(3) Child support I receive for those children..............................................."
+},
+{
+"name": "FillText4474",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 18,
+"rect": [
+50.7,
+55.6,
+569.8,
+113.9
+],
+"label": "The expenses listed in a, b, and c create an extreme financial hardship because (explain):"
+},
+{
+"name": "FillText89",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+46.5,
+720.4,
+394.4,
+736.1
+],
+"label": ""
+},
+{
+"name": "CheckBox219",
+"type": "/Btn",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+49.9,
+675.7,
+68.5,
+685.3
+],
+"label": "or custody or visitation proceeding, in California or elsewhere, concerning a child subject to this proceeding?"
+},
+{
+"name": "CheckBox221",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 14,
+"rect": [
+65.1,
+616.9,
+83.7,
+626.5
+],
+"label": "a."
+},
+{
+"name": "FillText97",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+146.1,
+612.8,
+209.6,
+628.1
+],
+"label": "Family"
+},
+{
+"name": "FillText101",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+210.8,
+610.5,
+309.8,
+633.6
+],
+"label": "Family"
+},
+{
+"name": "FillText105",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+311.4,
+614.4,
+369.9,
+629.7
+],
+"label": "Family"
+},
+{
+"name": "FillText113bhu",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+371.6,
+609.8,
+458.3,
+633.7
+],
+"label": "Family"
+},
+{
+"name": "FillText1138",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+459.9,
+613.6,
+518.4,
+628.8
+],
+"label": "Family"
+},
+{
+"name": "FillText1132",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+520.2,
+613.6,
+575.2,
+628.8
+],
+"label": "Family"
+},
+{
+"name": "hjhgjghj",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+146.0,
+587.3,
+209.5,
+602.6
+],
+"label": "Guardianship"
+},
+{
+"name": "FillText129ytuyt",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+210.9,
+584.9,
+309.9,
+607.9
+],
+"label": "Guardianship"
+},
+{
+"name": "FillText133jhg",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+311.6,
+587.4,
+370.1,
+602.6
+],
+"label": "Guardianship"
+},
+{
+"name": "FillText11776554",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+371.6,
+584.7,
+458.2,
+608.5
+],
+"label": "Guardianship"
+},
+{
+"name": "FillText1178",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+459.9,
+587.8,
+518.4,
+603.1
+],
+"label": "Guardianship"
+},
+{
+"name": "FillText1170",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+520.5,
+587.7,
+575.4,
+602.9
+],
+"label": "Guardianship"
+},
+{
+"name": "FillText109",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+145.9,
+562.6,
+209.5,
+577.9
+],
+"label": "Other"
+},
+{
+"name": "opiop",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+210.9,
+560.1,
+309.9,
+583.1
+],
+"label": "Other"
+},
+{
+"name": "jhlkllo;opi",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+311.5,
+563.4,
+370.0,
+578.7
+],
+"label": "Other"
+},
+{
+"name": "FillText145",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+371.6,
+559.4,
+458.2,
+583.2
+],
+"label": "Other"
+},
+{
+"name": "FillText1455",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+459.7,
+563.3,
+518.2,
+578.5
+],
+"label": "Other"
+},
+{
+"name": "FillText1451",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+520.3,
+563.3,
+575.3,
+578.6
+],
+"label": "Other"
+},
+{
+"name": "FillText14100",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+146.1,
+512.4,
+328.2,
+527.7
+],
+"label": "Juvenile"
+},
+{
+"name": "cgvbhj",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+329.9,
+512.1,
+574.7,
+527.4
+],
+"label": "Juvenile"
+},
+{
+"name": "FillText154240",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+146.2,
+486.7,
+328.3,
+501.9
+],
+"label": "Adoption"
+},
+{
+"name": "CheckBox27",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 14,
+"rect": [
+64.4,
+411.2,
+83.8,
+421.2
+],
+"label": "a."
+},
+{
+"name": "FillText166",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+230.9,
+408.3,
+327.7,
+423.6
+],
+"label": "Criminal"
+},
+{
+"name": "FillText174",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+458.5,
+408.1,
+574.9,
+423.3
+],
+"label": "Criminal"
+},
+{
+"name": "CheckBox280000864",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 14,
+"rect": [
+64.5,
+391.2,
+84.0,
+401.2
+],
+"label": "b."
+},
+{
+"name": "FillText178",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+146.6,
+388.0,
+229.3,
+403.3
+],
+"label": "Family"
+},
+{
+"name": "FillText89753232",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+230.6,
+387.9,
+327.4,
+403.2
+],
+"label": "Family"
+},
+{
+"name": "FillText183",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+329.4,
+387.5,
+456.7,
+402.8
+],
+"label": "Family"
+},
+{
+"name": "FillText20",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+458.4,
+387.3,
+574.8,
+402.5
+],
+"label": "Family"
+},
+{
+"name": "CheckBoxjuvdep",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/",
+"/Off"
+],
+"page": 14,
+"rect": [
+64.7,
+371.1,
+84.1,
+381.1
+],
+"label": "c."
+},
+{
+"name": "FillText24",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+146.5,
+368.0,
+229.2,
+383.2
+],
+"label": "Juvenile"
+},
+{
+"name": "FillText29",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+230.7,
+367.4,
+327.5,
+382.7
+],
+"label": "Juvenile"
+},
+{
+"name": "FillText33",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+329.3,
+367.0,
+456.6,
+382.2
+],
+"label": "Juvenile"
+},
+{
+"name": "FillText37",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+458.2,
+366.7,
+574.6,
+381.9
+],
+"label": "Juvenile"
+},
+{
+"name": "CheckBox30",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/",
+"/Off"
+],
+"page": 14,
+"rect": [
+64.8,
+351.4,
+84.2,
+361.4
+],
+"label": "d."
+},
+{
+"name": "FillText45",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+146.5,
+347.5,
+229.2,
+362.8
+],
+"label": "Other"
+},
+{
+"name": "FillText41",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+230.8,
+347.0,
+327.6,
+362.2
+],
+"label": "Other"
+},
+{
+"name": "FillText58",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+458.5,
+346.5,
+575.0,
+361.8
+],
+"label": "Other"
+},
+{
+"name": "CheckBox3177776",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 14,
+"rect": [
+217.5,
+313.8,
+236.2,
+323.6
+],
+"label": "or visitation with any child in this case?"
+},
+{
+"name": "CheckBox31943",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/2",
+"/Off"
+],
+"page": 14,
+"rect": [
+270.8,
+314.5,
+289.5,
+324.1
+],
+"label": "Yes"
+},
+{
+"name": "FillText6242",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+51.7,
+257.9,
+222.2,
+299.3
+],
+"label": "a. Name and address of person:"
+},
+{
+"name": "Fillt62422",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+227.9,
+258.1,
+398.3,
+299.5
+],
+"label": "b. Name and address of person:"
+},
+{
+"name": "FillTt6242",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+404.2,
+258.1,
+574.7,
+299.5
+],
+"label": "c. Name and address of person:"
+},
+{
+"name": "CheckBox39",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 14,
+"rect": [
+402.7,
+244.7,
+421.4,
+254.3
+],
+"label": "Has physical custody"
+},
+{
+"name": "CheckBox37",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 14,
+"rect": [
+226.7,
+233.2,
+245.4,
+242.7
+],
+"label": "Claims custody rights"
+},
+{
+"name": "CheckBox40",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 14,
+"rect": [
+402.6,
+232.7,
+421.4,
+242.4
+],
+"label": "Claims custody rights"
+},
+{
+"name": "FillTxt45",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+51.0,
+188.3,
+222.0,
+208.0
+],
+"label": "Name of each child:"
+},
+{
+"name": "FillText455",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+227.8,
+188.4,
+398.9,
+208.1
+],
+"label": "Name of each child:"
+},
+{
+"name": "FillText4502",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+404.0,
+188.3,
+575.1,
+207.9
+],
+"label": "Name of each child:"
+},
+{
+"name": "CheckBox412",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 14,
+"rect": [
+51.1,
+166.7,
+69.9,
+177.1
+],
+"label": "7."
+},
+{
+"name": "FillText62",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 14,
+"rect": [
+185.1,
+166.1,
+214.1,
+179.4
+],
+"label": "Number of pages attached:"
+},
+{
+"name": "FillText30",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+87.1,
+662.0,
+350.6,
+676.9
+],
+"label": "TELEPHONE NO.:"
+},
+{
+"name": "FillText71",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+142.3,
+504.9,
+372.9,
+516.9
+],
+"label": "GUARDIANSHIP OF (name):"
+},
+{
+"name": "CheckBox4121",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 13,
+"rect": [
+130.4,
+448.0,
+149.2,
+457.9
+],
+"label": "I am (check one):"
+},
+{
+"name": "Text22",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+60.4,
+349.5,
+269.6,
+365.2
+],
+"label": "b."
+},
+{
+"name": "Text23",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+60.4,
+332.4,
+269.6,
+348.1
+],
+"label": "c."
+},
+{
+"name": "Text24",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+383.3,
+349.9,
+575.3,
+365.6
+],
+"label": "c."
+},
+{
+"name": "Text31",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+383.4,
+333.0,
+575.4,
+348.7
+],
+"label": "d."
+},
+{
+"name": "Text39",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+276.0,
+349.1,
+382.0,
+364.8
+],
+"label": "c."
+},
+{
+"name": "Text40",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+275.8,
+332.3,
+381.9,
+348.0
+],
+"label": "d."
+},
+{
+"name": "FillText99",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+66.4,
+215.2,
+128.5,
+228.2
+],
+"label": "From:"
+},
+{
+"name": "FillText115bnm",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+67.0,
+182.6,
+129.1,
+195.7
+],
+"label": "From:"
+},
+{
+"name": "FillText119000",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+131.6,
+182.6,
+193.7,
+195.7
+],
+"label": "Confidential (list state only)"
+},
+{
+"name": "FillText1350",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+67.0,
+158.8,
+129.1,
+171.9
+],
+"label": "From:"
+},
+{
+"name": "FillText143BLUE",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+131.7,
+158.8,
+193.8,
+171.9
+],
+"label": "From:"
+},
+{
+"name": "FillText156",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+66.8,
+135.3,
+128.9,
+148.3
+],
+"label": "From:"
+},
+{
+"name": "FillText160000",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+132.3,
+135.3,
+194.4,
+148.4
+],
+"label": "From:"
+},
+{
+"name": "Text42",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+67.4,
+111.1,
+129.5,
+124.2
+],
+"label": "To:"
+},
+{
+"name": "Text43",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+132.4,
+111.3,
+194.5,
+124.4
+],
+"label": "To:"
+},
+{
+"name": "CheckBox413",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 13,
+"rect": [
+198.2,
+206.9,
+217.2,
+216.8
+],
+"label": "To present"
+},
+{
+"name": "CheckBox414",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 13,
+"rect": [
+335.4,
+206.3,
+354.2,
+216.2
+],
+"label": "Confidential (list state only)"
+},
+{
+"name": "FillText1233r34231",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+196.6,
+225.3,
+331.1,
+239.7
+],
+"label": "To present"
+},
+{
+"name": "FillText103",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+196.1,
+190.2,
+330.5,
+204.6
+],
+"label": "To:"
+},
+{
+"name": "FillText123x",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+196.0,
+166.6,
+330.5,
+181.0
+],
+"label": "To:"
+},
+{
+"name": "FillText123111",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+196.1,
+142.6,
+330.6,
+157.0
+],
+"label": "To:"
+},
+{
+"name": "FillText107413561254",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+195.8,
+118.8,
+330.3,
+133.2
+],
+"label": "To:"
+},
+{
+"name": "FillText107",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+333.1,
+166.5,
+483.3,
+180.9
+],
+"label": "To:"
+},
+{
+"name": "FillText1270",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+333.1,
+142.4,
+483.3,
+156.8
+],
+"label": "To:"
+},
+{
+"name": "FillTxt127",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+333.4,
+118.3,
+483.6,
+132.8
+],
+"label": "To:"
+},
+{
+"name": "FillText148fox",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+333.1,
+224.7,
+483.3,
+239.1
+],
+"label": "To present"
+},
+{
+"name": "FillTxt148",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+333.3,
+189.8,
+483.5,
+204.2
+],
+"label": "To:"
+},
+{
+"name": "FillText111",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+487.1,
+164.8,
+574.4,
+180.5
+],
+"label": "To:"
+},
+{
+"name": "FillText13111",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+486.0,
+141.2,
+573.3,
+156.9
+],
+"label": "To:"
+},
+{
+"name": "FillText1520001",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+486.9,
+223.2,
+574.2,
+238.9
+],
+"label": "To present"
+},
+{
+"name": "FillText172",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+486.5,
+188.1,
+573.8,
+203.8
+],
+"label": "To:"
+},
+{
+"name": "Text44",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 13,
+"rect": [
+487.3,
+117.2,
+574.6,
+132.9
+],
+"label": "To:"
+},
+{
+"name": "CheckBox418",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 13,
+"rect": [
+64.7,
+98.2,
+83.6,
+108.0
+],
+"label": "To:"
+},
+{
+"name": "CheckBox419",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Off",
+"/1"
+],
+"page": 13,
+"rect": [
+64.5,
+84.7,
+83.2,
+94.5
+],
+"label": "b."
+},
+{
+"name": "Text6",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 7,
+"rect": [
+482.0,
+750.3,
+574.1,
+766.0
+],
+"label": ""
+},
+{
+"name": "Check Box7",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 7,
+"rect": [
+128.6,
+546.9,
+147.6,
+558.0
+],
+"label": "SCHEDULE OF ASSETS AND DEBTS"
+},
+{
+"name": "Text36",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 10,
+"rect": [
+439.1,
+159.3,
+500.2,
+181.3
+],
+"label": "$"
+},
+{
+"name": "Check Box37",
+"type": "/Btn",
+"tu": "",
+"states": [
+"/Yes",
+"/Off"
+],
+"page": 10,
+"rect": [
+55.2,
+134.6,
+75.3,
+145.2
+],
+"label": "27."
+},
+{
+"name": "Text2",
+"type": "/Tx",
+"tu": "",
+"states": [],
+"page": 10,
+"rect": [
+151.6,
+133.7,
+198.4,
+148.0
+],
+"label": "(Specify number):"
+}
+]

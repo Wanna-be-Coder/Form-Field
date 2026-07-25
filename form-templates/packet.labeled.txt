@@ -1,0 +1,433 @@
+
+===== PAGE 1 =====
+/Bt  ResetForm                           st=/Filter/Type/Subtype/FormType/BBox/Resources  label=
+/Bt  PRINT                               st=/Filter/Type/Subtype/FormType/BBox/Resources  label=
+/Tx  PRINT WARNING                       st=      label=
+/Tx  FillText9                           st=      label=Name (First, Middle, Last):
+/Tx  FillText1                           st=      label=Street Address:
+/Tx  FillText2                           st=      label=City, State, Zip Code:
+/Tx  FillText155                         st=      label=Telephone Number:
+/Tx  FillText6                           st=      label=Name (First, Middle, Last):
+/Bt  TypeofCase                          st=      label=Type of Case
+/Tx  FillText143                         st=      label=Date of Marriage:
+/Bt  MinorChildrenYesNo                  st=      label=
+/Tx  HowManyChildren                     st=      label=How many?
+/Tx  FillText139                         st=      label=Name (First, Middle, Last):
+/Tx  FillText87                          st=      label=Place of Birth (City/ State):
+/Tx  FillText137                         st=      label=Age:
+/Tx  FillText138                         st=      label=Date of Birth (MM/DD/YYYY):
+/Tx  FillText135                         st=      label=Name (First, Middle, Last):
+/Tx  FillText6different                  st=      label=Place of Birth (City/ State):
+/Tx  FillText134                         st=      label=Date of Birth (MM/DD/YYYY):
+/Tx  FillText133                         st=      label=Age:
+/Tx  NameChild3                          st=      label=Name (First, Middle, Last):
+/Tx  POBChild3                           st=      label=Place of Birth (City/ State):
+/Tx  AgeChild3                           st=      label=Age:
+/Tx  DOBChild3                           st=      label=Date of Birth (MM/DD/YYYY):
+/Tx  FillText182Indio                    st=      label=Age:
+/Tx  FillTextRiverside                   st=      label=Where is your case filed?
+/Bt  Check BoxRiverside                  st=      label=Where is your case filed?
+/Bt  Check BoxIndio                      st=      label=Age:
+/Tx  Text12Hemet                         st=      label=Where is your case filed?
+/Bt  Check BoxHemet                      st=      label=Where is your case filed?
+/Bt  Check BoxBlythe                     st=      label=Age:
+/Tx  Text13Blythe                        st=      label=Age:
+/Bt  Group1                              st=      label=Filing Options:
+/Tx  Text38                              st=      label=Filing Options:
+/Tx  Text13                              st=      label=Filing Options:
+/Tx  Signature                           st=      label=How many?
+/Tx  date                                st=      label=Filing Options:
+
+===== PAGE 2 =====
+/Tx  FillTextcaseno                      st=      label=SUMMONS (Family Law)
+
+===== PAGE 4 =====
+/Bt  Check Box8                          st=/Yes  label=PETITION FOR
+/Bt  Check Boxdissolution                st=/Yes  label=Dissolution (Divorce) of:
+/Bt  dp1                                 st=/Yes  label=Marriage
+/Bt  Check BoxLS                         st=/Yes  label=Legal Separation of:
+/Bt  ldp1                                st=/Yes  label=Marriage
+/Bt  Check BoxNullity                    st=/Yes  label=Nullity of:
+/Bt  nmdp1                               st=/Yes  label=Marriage
+/Bt  marriedbox1a                        st=      label=a.
+/Bt  dpca                                st=      label=b.
+/Bt  dpnc                                st=/Yes  label=c.
+/Bt  CheckBox24b                         st=/1    label=Petitioner
+/Bt  CheckBox24                          st=/1    label=a.
+/Bt  2c                                  st=/Yes  label=b.
+/Bt  2b                                  st=/Yes  label=c.
+/Tx  FillText142                         st=      label=Date of separation (specify):
+/Tx  FillText140                         st=      label=Years
+/Tx  FillText141                         st=      label=Time from date of marriage to date of separation (specify):
+/Tx  DOSDP                               st=      label=(2) Date of separation (specify):
+/Tx  partnershipdate                     st=      label=Time from date of marriage to date of separation (specify):
+/Tx  YEARS DP                            st=      label=(3)
+/Tx  MONTHS DP                           st=      label=Years
+/Tx  FillText127                         st=      label=Child's name
+/Tx  FillText126                         st=      label=Birthdate
+/Tx  FillText125                         st=      label=Birthdate
+/Bt  UNBORN                              st=/1    label=(2)
+/Bt  CheckBox14                          st=/1    label=(1)
+/Bt  CheckBox15                          st=      label=e.
+
+===== PAGE 5 =====
+/Bt  Check Boxid                         st=/Yes  label=(1)
+/Bt  CheckBox44                          st=/1    label=(2)
+/Bt  CheckBox47                          st=/1    label=(1)
+/Bt  CheckBox36                          st=      label=(2)
+/Bt  CheckBox33                          st=      label=(4)
+/Bt  CheckBox41                          st=      label=(1)
+/Bt  CheckBox34                          st=      label=(5)
+/Bt  CheckBox38                          st=      label=(2)
+/Bt  CheckBox35                          st=      label=(6)
+/Bt  CheckBox32                          st=/1    label=(3)
+/Bt  CheckBox73                          st=      label=Legal custody of children to ...............................
+/Bt  CheckBox7300                        st=/1    label=Legal custody of children to ...............................
+/Bt  CheckBox69730                       st=/1    label=....................................................
+/Bt  CheckBox69                          st=      label=....................................................
+/Bt  CheckBox69A                         st=      label=Child visitation (parenting time) be granted to ............
+/Bt  CheckBox69A567                      st=/1    label=Child visitation (parenting time) be granted to ............
+/Bt  CheckBox57                          st=/1    label=As requested in
+/Bt  CheckBox57b                         st=/1    label=(cid:73)(cid:82)(cid:85)(cid:80) (cid:41)(cid:47)(cid:16)(ci
+/Bt  CheckBox57a                         st=/1    label=(cid:73)(cid:82)(cid:85)(cid:80) (cid:41)(cid:47)(cid:16)(ci
+/Bt  CheckBox57e                         st=/1    label=(cid:73)(cid:82)(cid:85)(cid:80) (cid:41)(cid:47)(cid:16)(ci
+/Bt  CheckBox57d                         st=/1    label=(cid:73)(cid:82)(cid:85)(cid:80) (cid:41)(cid:47)(cid:16)(ci
+/Bt  CheckBox57c                         st=/1    label=As requested in
+/Bt  CheckBox629                         st=/1    label=a.
+/Bt  CheckBox621                         st=/1    label=Spousal or domestic partner support payable to
+/Bt  CheckBox74                          st=/1    label=P(cid:72)(cid:87)(cid:76)(cid:87)(cid:76)(cid:82)(cid:81)(ci
+/Bt  Check Box1                          st=/Yes  label=Terminate (end) the court's ability to award support to
+/Bt  CheckBox622                         st=/1    label=b.
+/Bt  CheckBox623                         st=/1    label=P(cid:72)(cid:87)(cid:76)(cid:87)(cid:76)(cid:82)(cid:81)(ci
+/Bt  reservess                           st=/1    label=c.
+/Bt  reservepet                          st=/1    label=Reserve for future determination the issue of support payabl
+/Bt  reserveresp                         st=/1    label=P(cid:72)(cid:87)(cid:76)(cid:87)(cid:76)(cid:82)(cid:81)(ci
+/Bt  nosepprop                           st=/1    label=a.
+/Bt  CheckBox62                          st=      label=b.
+/Bt  CheckBoxflist                       st=/1    label=Confirm as separate property the assets and debts in
+/Tx  FillText119789                      st=      label=the following list.
+
+===== PAGE 6 =====
+/Bt  CheckBox31073096                    st=/1    label=a.
+/Bt  CheckBox624                         st=      label=b.
+/Tx  FillText160333                      st=      label=as follows (specify):
+/Bt  attorneyfees                        st=/1    label=a.
+/Bt  CheckBox7411                        st=/1    label=Attorney's fees and costs payable by
+/Bt  CheckBox749                         st=/1    label=P(cid:72)(cid:87)(cid:76)(cid:87)(cid:76)(cid:82)(cid:81)(ci
+/Bt  CheckBox60                          st=/1    label=b
+/Tx  FillText6654985                     st=      label=Petitioner's former name be restored to (specify):
+/Bt  CheckBox59                          st=/1    label=c.
+/Tx  FillText161                         st=      label=Petitioner's former name be restored to (specify):
+/Bt  CheckBox48                          st=/1    label=Other (specify):
+/Tx  Text37                              st=      label=Date:
+/Tx  TYPE_OR_PRINT_NAME1                 st=      label=(TYPE OR PRINT NAME)
+
+===== PAGE 7 =====
+/Tx  Text6                               st=      label=
+/Tx  5                                   st=      label=ATTORNEY FOR (name):
+/Bt  Check Box7                          st=/Yes  label=SCHEDULE OF ASSETS AND DEBTS
+
+===== PAGE 10 =====
+/Tx  Text36                              st=      label=$
+/Bt  Check Box37                         st=/Yes  label=27.
+/Tx  Text2                               st=      label=(Specify number):
+
+===== PAGE 11 =====
+/Tx  FillText158                         st=      label=TELEPHONE NO.:
+/Tx  FillText146                         st=      label=E-MAIL ADDRESS (Optional):
+/Tx  FillText154                         st=      label=ATTORNEY FOR (Name):
+/Bt  CheckBox17b                         st=      label=for the following reasons:
+/Tx  Zipcodeofprimaryresidence           st=      label=Zip code
+/Tx  Cityofprimaryresidence              st=      label=City
+/Bt  Checkbox10                          st=/Yes  label=City
+/Tx  Attorneyorpartywithout attorney     st=      label=Other:
+/Bt  Check Box4                          st=      label=(SIGNATURE)
+
+===== PAGE 12 =====
+/Tx  FillText26                          st=      label=FAX NO. (Optional):
+/Bt  check box email                     st=/Yes  label=complete the following:
+/Tx  Emailaddress1                       st=      label=information sent to is:
+/Bt  Checkbox no help                    st=/Yes  label=following:
+/Bt  declarant                           st=/Yes  label=ATTORNEY
+
+===== PAGE 13 =====
+/Tx  FillText30                          st=      label=TELEPHONE NO.:
+/Tx  FillText71                          st=      label=GUARDIANSHIP OF (name):
+/Bt  CheckBox4121                        st=/1    label=I am (check one):
+/Tx  Text24                              st=      label=c.
+/Tx  Text22                              st=      label=b.
+/Tx  Text39                              st=      label=c.
+/Tx  Text31                              st=      label=d.
+/Tx  Text23                              st=      label=c.
+/Tx  Text40                              st=      label=d.
+/Tx  FillText1233r34231                  st=      label=To present
+/Tx  FillText148fox                      st=      label=To present
+/Tx  FillText1520001                     st=      label=To present
+/Tx  FillText99                          st=      label=From:
+/Bt  CheckBox413                         st=/1    label=To present
+/Bt  CheckBox414                         st=/1    label=Confidential (list state only)
+/Tx  FillText103                         st=      label=To:
+/Tx  FillTxt148                          st=      label=To:
+/Tx  FillText172                         st=      label=To:
+/Tx  FillText115bnm                      st=      label=From:
+/Tx  FillText119000                      st=      label=Confidential (list state only)
+/Tx  FillText123x                        st=      label=To:
+/Tx  FillText107                         st=      label=To:
+/Tx  FillText111                         st=      label=To:
+/Tx  FillText1350                        st=      label=From:
+/Tx  FillText143BLUE                     st=      label=From:
+/Tx  FillText123111                      st=      label=To:
+/Tx  FillText1270                        st=      label=To:
+/Tx  FillText13111                       st=      label=To:
+/Tx  FillText156                         st=      label=From:
+/Tx  FillText160000                      st=      label=From:
+/Tx  FillText107413561254                st=      label=To:
+/Tx  FillTxt127                          st=      label=To:
+/Tx  Text44                              st=      label=To:
+/Tx  Text43                              st=      label=To:
+/Tx  Text42                              st=      label=To:
+/Bt  CheckBox418                         st=/1    label=To:
+/Bt  CheckBox419                         st=/1    label=b.
+
+===== PAGE 14 =====
+/Tx  FillText89                          st=      label=
+/Bt  CheckBox219                         st=      label=or custody or visitation proceeding, in California or elsewh
+/Bt  CheckBox221                         st=/1    label=a.
+/Tx  FillText105                         st=      label=Family
+/Tx  FillText1138                        st=      label=Family
+/Tx  FillText1132                        st=      label=Family
+/Tx  FillText97                          st=      label=Family
+/Tx  FillText101                         st=      label=Family
+/Tx  FillText113bhu                      st=      label=Family
+/Bt  CheckBox16                          st=      label=b.
+/Tx  FillText1178                        st=      label=Guardianship
+/Tx  FillText1170                        st=      label=Guardianship
+/Tx  FillText133jhg                      st=      label=Guardianship
+/Tx  hjhgjghj                            st=      label=Guardianship
+/Tx  FillText129ytuyt                    st=      label=Guardianship
+/Tx  FillText11776554                    st=      label=Guardianship
+/Bt  CheckBox17                          st=      label=c.
+/Tx  jhlkllo;opi                         st=      label=Other
+/Tx  FillText1455                        st=      label=Other
+/Tx  FillText1451                        st=      label=Other
+/Tx  FillText109                         st=      label=Other
+/Tx  opiop                               st=      label=Other
+/Tx  FillText145                         st=      label=Other
+/Bt  CheckBox18                          st=      label=d.
+/Tx  FillText14100                       st=      label=Juvenile
+/Tx  cgvbhj                              st=      label=Juvenile
+/Bt  CheckBox19                          st=      label=e.
+/Tx  FillText154240                      st=      label=Adoption
+/Bt  CheckBox27                          st=/1    label=a.
+/Tx  FillText166                         st=      label=Criminal
+/Tx  FillText174                         st=      label=Criminal
+/Bt  CheckBox280000864                   st=/1    label=b.
+/Tx  FillText178                         st=      label=Family
+/Tx  FillText89753232                    st=      label=Family
+/Tx  FillText183                         st=      label=Family
+/Tx  FillText20                          st=      label=Family
+/Bt  CheckBoxjuvdep                      st=/     label=c.
+/Tx  FillText24                          st=      label=Juvenile
+/Tx  FillText29                          st=      label=Juvenile
+/Tx  FillText33                          st=      label=Juvenile
+/Tx  FillText37                          st=      label=Juvenile
+/Bt  CheckBox30                          st=/     label=d.
+/Tx  FillText45                          st=      label=Other
+/Tx  FillText41                          st=      label=Other
+/Tx  FillText54                          st=      label=Other
+/Tx  FillText58                          st=      label=Other
+/Bt  CheckBox31943                       st=/2    label=Yes
+/Bt  CheckBox3177776                     st=/1    label=or visitation with any child in this case?
+/Tx  Fillt62422                          st=      label=b. Name and address of person:
+/Tx  FillTt6242                          st=      label=c. Name and address of person:
+/Tx  FillText6242                        st=      label=a. Name and address of person:
+/Bt  CheckBox39                          st=/1    label=Has physical custody
+/Bt  CheckBox37                          st=/1    label=Claims custody rights
+/Bt  CheckBox40                          st=/1    label=Claims custody rights
+/Tx  FillText455                         st=      label=Name of each child:
+/Tx  FillTxt45                           st=      label=Name of each child:
+/Tx  FillText4502                        st=      label=Name of each child:
+/Bt  CheckBox412                         st=/1    label=7.
+/Tx  FillText62                          st=      label=Number of pages attached:
+
+===== PAGE 15 =====
+/Bt  CheckBox24VIXEN                     st=/1    label=a.
+/Bt  CheckBox22#0grape                   st=/1    label=I file state tax returns in
+/Tx  OPIncome                            st=      label=4. Other party's income. I estimate the gross monthly income
+/Tx  EstimateExplain                     st=      label=This estimate is based on (explain):
+
+===== PAGE 16 =====
+/Tx  FillText2900                        st=      label=$
+/Tx  FillText2901                        st=      label=$
+/Tx  FillText2902                        st=      label=b. Overtime (gross, before taxes)...........................
+/Tx  FillText2903                        st=      label=b. Overtime (gross, before taxes)...........................
+/Tx  FillText2904                        st=      label=c. Commissions or bonuses...................................
+/Tx  FillText2905                        st=      label=c. Commissions or bonuses...................................
+/Tx  FillText2906                        st=      label=$
+/Tx  FillText2907                        st=      label=$
+/Bt  Check Box3                          st=/Yes  label=from a different marriage
+/Tx  FillText2908                        st=      label=$
+/Tx  FillText2909                        st=      label=$
+/Tx  FillText2910                        st=      label=from a different domestic partnership $
+/Tx  FillText2911                        st=      label=from a different domestic partnership $
+/Tx  FillText2912                        st=      label=g. Pension/retirement fund payments.........................
+/Tx  FillText2913                        st=      label=g. Pension/retirement fund payments.........................
+/Tx  FillText2914                        st=      label=h. Social Security retirement (not SSI).....................
+/Tx  FillText2915                        st=      label=h. Social Security retirement (not SSI).....................
+/Tx  FillText2917                        st=      label=$
+/Tx  FillText2916                        st=      label=$
+/Tx  FillText2918                        st=      label=j. Unemployment compensation................................
+/Tx  FillText2919                        st=      label=j. Unemployment compensation................................
+/Tx  FillText2920                        st=      label=k. Workers' compensation....................................
+/Tx  FillText2921                        st=      label=k. Workers' compensation....................................
+/Tx  FillText2922                        st=      label=$
+/Tx  FillText2923                        st=      label=$
+/Tx  FillText2924                        st=      label=a. Dividends/interest.......................................
+/Tx  FillText2925                        st=      label=a. Dividends/interest.......................................
+/Tx  FillText2927                        st=      label=b. Rental property income...................................
+/Tx  FillText2926                        st=      label=b. Rental property income...................................
+/Tx  FillText2929                        st=      label=c. Trust income.............................................
+/Tx  FillText2928                        st=      label=c. Trust income.............................................
+/Tx  FillText2931                        st=      label=$
+/Tx  FillText2930                        st=      label=$
+/Tx  FillText2933                        st=      label=Income from self-employment, after business expenses for all
+/Tx  FillText2932                        st=      label=Income from self-employment, after business expenses for all
+/Tx  FillText2935                        st=      label=a. Required union dues......................................
+/Tx  FillText2936                        st=      label=b. Required retirement payments (not Social Security, FICA, 
+/Tx  FillText2937                        st=      label=c. Medical, hospital, dental, and other health insurance pre
+/Tx  FillText2938                        st=      label=d. Child support that I pay for children from other relation
+/Tx  FillText2939                        st=      label=$
+/Tx  FillText2940                        st=      label=f. Partner support that I pay by court order from a differen
+/Tx  FillText2941                        st=      label=g. Necessary job-related expenses not reimbursed by my emplo
+/Tx  FillText2942                        st=      label=a. Cash and checking accounts, savings, credit union, money 
+/Tx  FillText2943                        st=      label=b. Stocks, bonds, and other assets I could easily sell......
+/Tx  FillText2944                        st=      label=$
+
+===== PAGE 17 =====
+/Tx  FillText35046                       st=      label=h. Laundry and cleaning................................... $
+/Tx  FillText35034                       st=      label=mortgage.......... $
+/Tx  FillText35047                       st=      label=i. Clothes..................................................
+/Tx  FillText35048                       st=      label=j. Education................................................
+/Tx  FillText35049                       st=      label=k. Entertainment, gifts, and vacation................ $
+/Tx  FillText35035                       st=      label=$
+/Tx  FillText35036                       st=      label=$
+/Tx  FillText35050                       st=      label=(insurance, gas, repairs, bus, etc.)............... $
+/Tx  FillText35037                       st=      label=(2) Real property taxes.................................. $
+/Tx  FillText35051                       st=      label=auto, home, or health insurance)................. $
+/Tx  FillText35038                       st=      label=(if not included above).............................. $
+/Tx  FillText35052                       st=      label=n. Savings and investments............................. $
+/Tx  FillText35039                       st=      label=(4) Maintenance and repair........................... $
+/Tx  FillText35053                       st=      label=o. Charitable contributions................................ 
+/Tx  FillText35040                       st=      label=b. Health-care costs not paid by insurance........ $
+/Tx  FillText35041                       st=      label=c. Child care...............................................
+/Tx  FillText35054                       st=      label=(itemize below in 14 and insert total here)... $
+/Tx  FillText35042                       st=      label=d. Groceries and household supplies................. $
+/Tx  FillText35056                       st=      label=$
+/Tx  FillText35055                       st=      label=q. Other (specify):
+/Tx  FillText35043                       st=      label=e. Eating out...............................................
+/Tx  FillText35044                       st=      label=f. Utilities (gas, electric, water, trash)................ $
+/Tx  FillText35057                       st=      label=$
+/Tx  FillText35045                       st=      label=g. Telephone, cell phone, and e-mail................. $
+/Tx  FillText35058                       st=      label=$
+/Tx  FillText35060                       st=      label=For
+/Tx  FillText35059                       st=      label=Paid to
+/Tx  FillText35061                       st=      label=Amount
+/Tx  FillText35062                       st=      label=$
+/Tx  FillText35063                       st=      label=$
+/Tx  FillText35067                       st=      label=$
+/Tx  FillText35068                       st=      label=$
+/Tx  FillText35064                       st=      label=Paid to
+/Tx  FillText35065                       st=      label=For
+/Tx  FillText35066                       st=      label=$
+/Tx  FillText35073                       st=      label=$
+/Tx  FillText35069                       st=      label=Paid to
+/Tx  FillText35070                       st=      label=For
+/Tx  FillText35072                       st=      label=$
+/Tx  FillText35071                       st=      label=$
+/Tx  FillText35074                       st=      label=Paid to
+/Tx  FillText35075                       st=      label=For
+/Tx  FillText35078                       st=      label=$
+/Tx  FillText35076                       st=      label=$
+/Tx  FillText35077                       st=      label=$
+/Tx  FillText35079                       st=      label=Paid to
+/Tx  FillText35080                       st=      label=For
+/Tx  FillText35081                       st=      label=$
+/Tx  FillText35082                       st=      label=$
+/Tx  FillText35083                       st=      label=$
+/Tx  FillText35084                       st=      label=Paid to
+/Tx  FillText35085                       st=      label=For
+/Tx  FillText35087                       st=      label=$
+/Tx  FillText35088                       st=      label=$
+/Tx  FillText35086                       st=      label=$
+
+===== PAGE 18 =====
+/Tx  FillText4452                        st=      label=b. The children spend
+/Tx  FillText4451                        st=      label=a.
+/Tx  FillText4453                        st=      label=(If you're not sure about percentage or it has not been agre
+/Bt  CheckBox4455                        st=/2    label=I do
+/Bt  CheckBox4454                        st=/1    label=a.
+/Tx  FillText4456                        st=      label=b. Name of insurance company:
+/Tx  FillText4457                        st=      label=b. Name of insurance company:
+/Tx  FillText4458                        st=      label=d. The monthly cost for the children's health insurance is o
+/Tx  FillText4459                        st=      label=d. The monthly cost for the children's health insurance is o
+/Tx  FillText4460                        st=      label=a. Childcare so I can work or get job training..............
+/Tx  FillText4461                        st=      label=b. Children's health care not covered by insurance..........
+/Tx  FillText4462                        st=      label=c. Travel expenses for visitation...........................
+/Tx  FillText4463                        st=      label=d. Children's educational or other special needs (specify be
+/Tx  FillText4464                        st=      label=c. Travel expenses for visitation...........................
+/Tx  FillText4465                        st=      label=$
+/Tx  FillText4466                        st=      label=$
+/Tx  FillText4467                        st=      label=$
+/Tx  FillText4468                        st=      label=$
+/Tx  FillText4469                        st=      label=$
+/Tx  FillText4470                        st=      label=$
+/Tx  FillText4471                        st=      label=are living with me..........................................
+/Tx  FillText4472                        st=      label=$
+/Tx  FillText4473                        st=      label=(3) Child support I receive for those children..............
+/Tx  FillText4474                        st=      label=The expenses listed in a, b, and c create an extreme financi
+
+===== PAGE 19 =====
+/Tx  otherparent_party                   st=      label=OTHER PARENT/PARTY:
+/Bt  CheckBox124#0you                    st=      label=DECLARATION OF DISCLOSURE
+
+===== PAGE 20 =====
+/Bt  CheckBox13121375                    st=/1    label=a.
+/Bt  CheckBox9121375                     st=/1    label=d.
+/Bt  CheckBox1                           st=/1    label=(5)
+/Bt  CheckBox2                           st=/1    label=(6)
+/Bt  CheckBox7777777777777777            st=/1    label=(2)
+/Bt  CheckBox3                           st=/1    label=(7)
+/Bt  CheckBox6                           st=/1    label=(3)
+/Bt  CheckBox5                           st=/1    label=(4)
+/Bt  CheckBoxOther                       st=/1    label=(8)
+/Tx  FillTextCertificate                 st=      label=Expense Declaration (form             )
+/Tx  Text1                               st=      label=(cid:50)(cid:87)(cid:75)(cid:72)(cid:85) (specify):
+/Tx  Text21                              st=      label=(cid:50)(cid:87)(cid:75)(cid:72)(cid:85) (specify):
+/Tx  FillText53                          st=      label=Expense Declaration (form             )
+/Tx  FillText55121379                    st=      label=at (time):
+/Tx  FillText56                          st=      label=Substituted service. I left the copies with or in the presen
+/Tx  FillText57                          st=      label=who is (specify title or relationship to respondent):
+/Tx  FillText60                          st=      label=on (date):
+/Tx  FillText61                          st=      label=at (time):
+
+===== PAGE 21 =====
+/Tx  FillText63                          st=      label=first-class mail, postage prepaid, on (date):
+/Tx  FillText64                          st=      label=from (city):
+/Bt  CheckBoxoutside                     st=/1    label=(2)
+/Tx  FillText76                          st=      label=d.
+/Bt  CheckBox21121375                    st=/1    label=d.
+/Bt  CheckBox22                          st=/1    label=d.
+/Tx  FillText66                          st=      label=Name:
+/Tx  FillText67                          st=      label=Name:
+/Tx  FillText69                          st=      label=Telephone number:
+/Bt  CheckBoxexempt                      st=/     label=a.
+/Bt  CheckBoxnot registered              st=/     label=b.
+/Bt  CheckBoxregistered                  st=/     label=c.
+/Bt  CheckBoxcontractor                  st=/     label=an employee or
+/Bt  CheckBoxemployer                    st=/     label=a registered California process server:
+/Tx  FillText72                          st=      label=(1) Registration no.:
+/Tx  FillText73                          st=      label=(2) County:
+/Tx  FillText74                          st=      label=(3) The fee for service was (specify):  $
+/Bt  sheriff                             st=/1    label=6.
+/Tx  FillText75newbox                    st=      label=Date:
+/Tx  NAME_OF_PERSON_WHO_SERVED_PAPERS    st=      label=Date:
