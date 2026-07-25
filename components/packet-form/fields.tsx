@@ -180,7 +180,7 @@ export function RadioCards({
             className={`flex cursor-pointer items-start gap-3 rounded-xl border p-3 text-sm transition ${
               selected
                 ? "border-sky-500 bg-sky-50 ring-1 ring-sky-500 dark:border-sky-400 dark:bg-sky-950/40"
-                : "border-slate-200 bg-white hover:border-slate-300 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-900 dark:hover:border-slate-600"
+                : "border-slate-200 bg-white hover:border-slate-300 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-900 dark:hover:border-slate-600 dark:hover:bg-slate-800"
             }`}
           >
             <input
@@ -234,7 +234,7 @@ export function CheckList({
             className={`flex cursor-pointer items-start gap-3 rounded-xl border p-3 text-sm transition ${
               checked
                 ? "border-sky-500 bg-sky-50 dark:border-sky-400 dark:bg-sky-950/40"
-                : "border-slate-200 bg-white hover:border-slate-300 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-900 dark:hover:border-slate-600"
+                : "border-slate-200 bg-white hover:border-slate-300 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-900 dark:hover:border-slate-600 dark:hover:bg-slate-800"
             }`}
           >
             <input
@@ -270,7 +270,7 @@ export function CheckboxRow({
 }) {
   const { field } = useController({ name });
   return (
-    <label className="flex cursor-pointer items-start gap-3 rounded-xl border border-slate-200 bg-white p-3 text-sm transition hover:border-slate-300 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-900 dark:hover:border-slate-600">
+    <label className="flex cursor-pointer items-start gap-3 rounded-xl border border-slate-200 bg-white p-3 text-sm transition hover:border-slate-300 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-900 dark:hover:border-slate-600 dark:hover:bg-slate-800">
       <input
         type="checkbox"
         checked={!!field.value}

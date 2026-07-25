@@ -262,7 +262,7 @@ export default function PacketForm() {
                     state === "active"
                       ? "bg-sky-600 text-white shadow-sm"
                       : state === "done"
-                        ? "bg-sky-50 text-sky-700 hover:bg-sky-100 dark:bg-sky-950/50 dark:text-sky-200"
+                        ? "bg-sky-50 text-sky-700 hover:bg-sky-100 dark:bg-sky-950/50 dark:text-sky-200 dark:hover:bg-sky-900/60"
                         : "border border-slate-200 bg-white text-slate-600 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-300 dark:hover:bg-slate-800"
                   }`}
                 >
